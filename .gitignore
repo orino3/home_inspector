@@ -48,3 +48,7 @@ logs/
 tmp/
 temp/
 .cache/
+
+# Generated output files
+outputs/
+sample_data/
