@@ -1,0 +1,406 @@
+[
+  {
+    "photo_path": "sample_data/photos/photo1_ceiling_stain.jpg",
+    "photo_timestamp": 30.0,
+    "photo_analysis": {
+      "photo_path": "sample_data/photos/photo1_ceiling_stain.jpg",
+      "photo_timestamp": 30.0,
+      "analysis": {
+        "location": "Ceiling - Master Bedroom",
+        "visible_elements": [
+          "ceiling"
+        ],
+        "issues_detected": [
+          {
+            "title": "Water Stain",
+            "description": "There is a visible water stain on the ceiling, indicating a possible leak from above.",
+            "category": "interior",
+            "severity": "moderate",
+            "recommendation": "Investigate the source of the leak and repair it. Consider repainting the ceiling after ensuring the leak is fixed."
+          }
+        ],
+        "overall_assessment": "The ceiling in the master bedroom shows signs of water damage, which should be addressed to prevent further issues.",
+        "confidence": 0.9
+      },
+      "model_used": "gpt-4o",
+      "tokens_used": 1200
+    },
+    "audio_context": {
+      "timestamp": 30.0,
+      "window_start": 0,
+      "window_end": 60.0,
+      "text": "Good morning, I'm starting the inspection at 123 Main Street. This is a single-family home built in 1985, approximately 2400 square feet. I'm now in the master bedroom on the second floor. Looking up at the ceiling, I can see a water stain approximately 12 inches in diameter near the bathroom wall. The stain appears to be brownish in color, which typically indicates an old leak. However, I'm touching it now and it feels slightly damp, so this could be an active leak. I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon.",
+      "segments": [
+        {
+          "id": 0,
+          "start": 0.0,
+          "end": 15.0,
+          "text": "Good morning, I'm starting the inspection at 123 Main Street. This is a single-family home built in 1985, approximately 2400 square feet.",
+          "confidence": 0.95
+        },
+        {
+          "id": 1,
+          "start": 15.5,
+          "end": 35.0,
+          "text": "I'm now in the master bedroom on the second floor. Looking up at the ceiling, I can see a water stain approximately 12 inches in diameter near the bathroom wall.",
+          "confidence": 0.92
+        },
+        {
+          "id": 2,
+          "start": 35.5,
+          "end": 55.0,
+          "text": "The stain appears to be brownish in color, which typically indicates an old leak. However, I'm touching it now and it feels slightly damp, so this could be an active leak.",
+          "confidence": 0.94
+        },
+        {
+          "id": 3,
+          "start": 55.5,
+          "end": 75.0,
+          "text": "I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon.",
+          "confidence": 0.93
+        }
+      ],
+      "segment_count": 4
+    },
+    "correlation": {
+      "photo_path": "sample_data/photos/photo1_ceiling_stain.jpg",
+      "photo_timestamp": 30.0,
+      "audio_context_used": {
+        "timestamp": 30.0,
+        "window_start": 0,
+        "window_end": 60.0,
+        "text": "Good morning, I'm starting the inspection at 123 Main Street. This is a single-family home built in 1985, approximately 2400 square feet. I'm now in the master bedroom on the second floor. Looking up at the ceiling, I can see a water stain approximately 12 inches in diameter near the bathroom wall. The stain appears to be brownish in color, which typically indicates an old leak. However, I'm touching it now and it feels slightly damp, so this could be an active leak. I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon.",
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 15.0,
+            "text": "Good morning, I'm starting the inspection at 123 Main Street. This is a single-family home built in 1985, approximately 2400 square feet.",
+            "confidence": 0.95
+          },
+          {
+            "id": 1,
+            "start": 15.5,
+            "end": 35.0,
+            "text": "I'm now in the master bedroom on the second floor. Looking up at the ceiling, I can see a water stain approximately 12 inches in diameter near the bathroom wall.",
+            "confidence": 0.92
+          },
+          {
+            "id": 2,
+            "start": 35.5,
+            "end": 55.0,
+            "text": "The stain appears to be brownish in color, which typically indicates an old leak. However, I'm touching it now and it feels slightly damp, so this could be an active leak.",
+            "confidence": 0.94
+          },
+          {
+            "id": 3,
+            "start": 55.5,
+            "end": 75.0,
+            "text": "I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon.",
+            "confidence": 0.93
+          }
+        ],
+        "segment_count": 4
+      },
+      "correlation": {
+        "correlated_issues": [
+          {
+            "title": "Water Stain on Master Bedroom Ceiling",
+            "description": "The ceiling in the master bedroom shows a water stain approximately 12 inches in diameter near the bathroom wall. The stain is brownish, indicating a possible old leak, but it feels slightly damp, suggesting it might be active. This issue indicates a potential leak from the bathroom above, possibly from the shower pan.",
+            "category": "interior",
+            "severity": "moderate",
+            "location": "Ceiling - Master Bedroom",
+            "evidence": {
+              "from_photo": "Visible water stain on the ceiling, indicating a possible leak from above.",
+              "from_audio": "Inspector noted a 12-inch brownish water stain near the bathroom wall, slightly damp to the touch, suggesting an active leak.",
+              "correlation_confidence": 0.95
+            },
+            "recommendations": "Investigate the source of the leak and repair it. Consider repainting the ceiling after ensuring the leak is fixed. A licensed plumber should check the shower pan in the bathroom above.",
+            "inspector_notes": "The stain's dampness suggests an active leak. Addressing this issue soon is recommended."
+          }
+        ],
+        "correlation_quality": {
+          "audio_context_relevant": true,
+          "issues_mentioned_in_audio": 1,
+          "confidence_score": 0.95,
+          "reasoning": "The audio description directly matches the photo analysis, providing specific details about the stain's size, color, and potential source, which aligns with the visual findings."
+        }
+      },
+      "model_used": "gpt-4o"
+    }
+  },
+  {
+    "photo_path": "sample_data/photos/photo2_gfci_outlet.jpg",
+    "photo_timestamp": 90.0,
+    "photo_analysis": {
+      "photo_path": "sample_data/photos/photo2_gfci_outlet.jpg",
+      "photo_timestamp": 90.0,
+      "analysis": {
+        "location": "Unknown Area",
+        "visible_elements": [
+          "Electrical Outlet"
+        ],
+        "issues_detected": [
+          {
+            "title": "Non-Functioning GFCI Outlet",
+            "description": "The GFCI outlet is labeled as not functioning, which indicates a potential electrical issue.",
+            "category": "electrical",
+            "severity": "major",
+            "recommendation": "Have a licensed electrician inspect and repair or replace the outlet to ensure it is functioning properly and safely."
+          }
+        ],
+        "overall_assessment": "The GFCI outlet is not functioning, which poses a significant electrical concern.",
+        "confidence": 0.9
+      },
+      "model_used": "gpt-4o",
+      "tokens_used": 1194
+    },
+    "audio_context": {
+      "timestamp": 90.0,
+      "window_start": 60.0,
+      "window_end": 120.0,
+      "text": "I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon. Moving to the electrical outlet on the north wall near the window. I'm testing this GFCI outlet with my tester... and it's not tripping. The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern.",
+      "segments": [
+        {
+          "id": 3,
+          "start": 55.5,
+          "end": 75.0,
+          "text": "I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon.",
+          "confidence": 0.93
+        },
+        {
+          "id": 4,
+          "start": 76.0,
+          "end": 95.0,
+          "text": "Moving to the electrical outlet on the north wall near the window. I'm testing this GFCI outlet with my tester... and it's not tripping.",
+          "confidence": 0.91
+        },
+        {
+          "id": 5,
+          "start": 95.5,
+          "end": 115.0,
+          "text": "The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock.",
+          "confidence": 0.94
+        },
+        {
+          "id": 6,
+          "start": 115.5,
+          "end": 130.0,
+          "text": "This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern.",
+          "confidence": 0.96
+        }
+      ],
+      "segment_count": 4
+    },
+    "correlation": {
+      "photo_path": "sample_data/photos/photo2_gfci_outlet.jpg",
+      "photo_timestamp": 90.0,
+      "audio_context_used": {
+        "timestamp": 90.0,
+        "window_start": 60.0,
+        "window_end": 120.0,
+        "text": "I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon. Moving to the electrical outlet on the north wall near the window. I'm testing this GFCI outlet with my tester... and it's not tripping. The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern.",
+        "segments": [
+          {
+            "id": 3,
+            "start": 55.5,
+            "end": 75.0,
+            "text": "I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon.",
+            "confidence": 0.93
+          },
+          {
+            "id": 4,
+            "start": 76.0,
+            "end": 95.0,
+            "text": "Moving to the electrical outlet on the north wall near the window. I'm testing this GFCI outlet with my tester... and it's not tripping.",
+            "confidence": 0.91
+          },
+          {
+            "id": 5,
+            "start": 95.5,
+            "end": 115.0,
+            "text": "The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock.",
+            "confidence": 0.94
+          },
+          {
+            "id": 6,
+            "start": 115.5,
+            "end": 130.0,
+            "text": "This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern.",
+            "confidence": 0.96
+          }
+        ],
+        "segment_count": 4
+      },
+      "correlation": {
+        "correlated_issues": [
+          {
+            "title": "Non-Functioning GFCI Outlet",
+            "description": "The GFCI outlet located on the north wall near the window is not functioning properly. The inspector tested the outlet and found that it is not tripping, which indicates a malfunction. This poses a significant safety hazard as GFCI outlets are essential for protection against electrical shock, particularly in bedrooms. Immediate replacement by a licensed electrician is recommended.",
+            "category": "electrical",
+            "severity": "safety_hazard",
+            "location": "North wall near the window",
+            "evidence": {
+              "from_photo": "The GFCI outlet is labeled as not functioning, indicating a potential electrical issue.",
+              "from_audio": "Inspector noted the GFCI outlet is not tripping and identified it as a major safety concern.",
+              "correlation_confidence": 1.0
+            },
+            "recommendations": "Have a licensed electrician inspect and repair or replace the outlet to ensure it is functioning properly and safely.",
+            "inspector_notes": "This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician."
+          }
+        ],
+        "correlation_quality": {
+          "audio_context_relevant": true,
+          "issues_mentioned_in_audio": 1,
+          "confidence_score": 1.0,
+          "reasoning": "The audio directly addresses the issue identified in the photo, with specific details about the malfunctioning GFCI outlet and its location, confirming the correlation."
+        }
+      },
+      "model_used": "gpt-4o"
+    }
+  },
+  {
+    "photo_path": "sample_data/photos/photo3_cabinet_damage.jpg",
+    "photo_timestamp": 145.0,
+    "photo_analysis": {
+      "photo_path": "sample_data/photos/photo3_cabinet_damage.jpg",
+      "photo_timestamp": 145.0,
+      "analysis": {
+        "location": "Under Kitchen Sink",
+        "visible_elements": [
+          "cabinet"
+        ],
+        "issues_detected": [
+          {
+            "title": "Cabinet Damage",
+            "description": "The cabinet under the kitchen sink shows visible signs of damage, possibly due to water exposure.",
+            "category": "interior",
+            "severity": "moderate",
+            "recommendation": "Inspect for leaks in plumbing and repair or replace the damaged cabinet material."
+          }
+        ],
+        "overall_assessment": "The cabinet under the kitchen sink is damaged, likely from water exposure. Further inspection is needed to address potential leaks.",
+        "confidence": 0.9
+      },
+      "model_used": "gpt-4o",
+      "tokens_used": 1192
+    },
+    "audio_context": {
+      "timestamp": 145.0,
+      "window_start": 115.0,
+      "window_end": 175.0,
+      "text": "The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern. Now I'm heading down to the kitchen. Looking at the cabinet under the sink, I can see some water damage to the particle board. There's warping and discoloration, which indicates past water intrusion. Checking the pipes... they appear to be dry now, but the damage suggests there was a leak at some point. The homeowner should monitor this area and consider replacing the damaged cabinet bottom. This is a minor issue. That concludes the main areas of concern I found during this inspection.",
+      "segments": [
+        {
+          "id": 5,
+          "start": 95.5,
+          "end": 115.0,
+          "text": "The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock.",
+          "confidence": 0.94
+        },
+        {
+          "id": 6,
+          "start": 115.5,
+          "end": 130.0,
+          "text": "This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern.",
+          "confidence": 0.96
+        },
+        {
+          "id": 7,
+          "start": 131.0,
+          "end": 150.0,
+          "text": "Now I'm heading down to the kitchen. Looking at the cabinet under the sink, I can see some water damage to the particle board.",
+          "confidence": 0.93
+        },
+        {
+          "id": 8,
+          "start": 150.5,
+          "end": 165.0,
+          "text": "There's warping and discoloration, which indicates past water intrusion. Checking the pipes... they appear to be dry now, but the damage suggests there was a leak at some point.",
+          "confidence": 0.92
+        },
+        {
+          "id": 9,
+          "start": 165.5,
+          "end": 180.0,
+          "text": "The homeowner should monitor this area and consider replacing the damaged cabinet bottom. This is a minor issue. That concludes the main areas of concern I found during this inspection.",
+          "confidence": 0.94
+        }
+      ],
+      "segment_count": 5
+    },
+    "correlation": {
+      "photo_path": "sample_data/photos/photo3_cabinet_damage.jpg",
+      "photo_timestamp": 145.0,
+      "audio_context_used": {
+        "timestamp": 145.0,
+        "window_start": 115.0,
+        "window_end": 175.0,
+        "text": "The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern. Now I'm heading down to the kitchen. Looking at the cabinet under the sink, I can see some water damage to the particle board. There's warping and discoloration, which indicates past water intrusion. Checking the pipes... they appear to be dry now, but the damage suggests there was a leak at some point. The homeowner should monitor this area and consider replacing the damaged cabinet bottom. This is a minor issue. That concludes the main areas of concern I found during this inspection.",
+        "segments": [
+          {
+            "id": 5,
+            "start": 95.5,
+            "end": 115.0,
+            "text": "The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock.",
+            "confidence": 0.94
+          },
+          {
+            "id": 6,
+            "start": 115.5,
+            "end": 130.0,
+            "text": "This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern.",
+            "confidence": 0.96
+          },
+          {
+            "id": 7,
+            "start": 131.0,
+            "end": 150.0,
+            "text": "Now I'm heading down to the kitchen. Looking at the cabinet under the sink, I can see some water damage to the particle board.",
+            "confidence": 0.93
+          },
+          {
+            "id": 8,
+            "start": 150.5,
+            "end": 165.0,
+            "text": "There's warping and discoloration, which indicates past water intrusion. Checking the pipes... they appear to be dry now, but the damage suggests there was a leak at some point.",
+            "confidence": 0.92
+          },
+          {
+            "id": 9,
+            "start": 165.5,
+            "end": 180.0,
+            "text": "The homeowner should monitor this area and consider replacing the damaged cabinet bottom. This is a minor issue. That concludes the main areas of concern I found during this inspection.",
+            "confidence": 0.94
+          }
+        ],
+        "segment_count": 5
+      },
+      "correlation": {
+        "correlated_issues": [
+          {
+            "title": "Under-Sink Cabinet Water Damage",
+            "description": "The cabinet under the kitchen sink shows visible signs of damage, likely due to past water exposure. The inspector noted warping and discoloration of the particle board, indicating previous water intrusion. Although the pipes appear dry now, the damage suggests there was a leak at some point.",
+            "category": "interior",
+            "severity": "minor",
+            "location": "Under kitchen sink",
+            "evidence": {
+              "from_photo": "The cabinet under the kitchen sink shows visible signs of damage, possibly due to water exposure.",
+              "from_audio": "The inspector observed warping and discoloration of the particle board, indicating past water intrusion. The pipes appear dry now, but the damage suggests there was a leak.",
+              "correlation_confidence": 0.9
+            },
+            "recommendations": "The homeowner should monitor this area for potential leaks and consider replacing the damaged cabinet material.",
+            "inspector_notes": "The inspector noted this as a minor issue and recommended monitoring the area."
+          }
+        ],
+        "correlation_quality": {
+          "audio_context_relevant": true,
+          "issues_mentioned_in_audio": 1,
+          "confidence_score": 0.9,
+          "reasoning": "The inspector's audio directly mentions the water damage under the kitchen sink, aligning with the photo analysis. Both sources indicate past water intrusion and suggest monitoring and potential replacement of the cabinet material."
+        }
+      },
+      "model_used": "gpt-4o"
+    }
+  }
+]

@@ -81,9 +81,9 @@ Be professional and use proper home inspection terminology.
 If no issues are visible, return empty issues_detected array.
 """
 
-    # Call GPT-5 Vision
+    # Call GPT-4o Vision (best for structured JSON output - 100% reliability)
     response = client.chat.completions.create(
-        model="gpt-4o",  # Using GPT-4o with vision capabilities
+        model="gpt-4o",  # Using GPT-4o - best for reliable structured outputs
         messages=[
             {
                 "role": "user",

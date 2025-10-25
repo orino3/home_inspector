@@ -30,6 +30,11 @@ spec = importlib.util.spec_from_file_location("generate_report", "poc/4_generate
 generate_report = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(generate_report)
 
+# Load generate_pdf module
+spec = importlib.util.spec_from_file_location("generate_pdf", "poc/5_generate_pdf.py")
+generate_pdf = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(generate_pdf)
+
 print("=" * 80)
 print("RUNNING POC TEST WITH SYNTHETIC DATA + REAL APIs")
 print("=" * 80)
@@ -164,6 +169,20 @@ try:
 
     print(f"\n✅ Report generation complete")
 
+    # Generate PDF report
+    print("\n📄 Generating PDF report...")
+    try:
+        pdf_path = generate_pdf.generate_pdf_report(
+            "outputs/reports/inspection_report.json",
+            "outputs/correlations/synthetic_test_correlations.json",
+            property_info
+        )
+        pdf_size = os.path.getsize(pdf_path) / 1024
+        print(f"   ✅ PDF generated: {pdf_path}")
+        print(f"   File size: {pdf_size:.1f} KB")
+    except Exception as e:
+        print(f"   ❌ Error generating PDF: {e}")
+
 except Exception as e:
     print(f"\n❌ Error generating report: {e}")
     report = None
@@ -201,6 +220,7 @@ if report:
     print("   - Correlations: outputs/correlations/synthetic_test_correlations.json")
     print("   - Report (JSON): outputs/reports/inspection_report.json")
     print("   - Report (Text): outputs/reports/inspection_report.txt")
+    print("   - Report (PDF): outputs/reports/inspection_report.pdf")
 
     print("\n✅ Review the full report at: outputs/reports/inspection_report.txt")
     print()

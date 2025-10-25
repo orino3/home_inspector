@@ -1,0 +1,23 @@
+{
+  "photo_path": "sample_data/photos/photo3_cabinet_damage.jpg",
+  "photo_timestamp": 145.0,
+  "analysis": {
+    "location": "Under Kitchen Sink",
+    "visible_elements": [
+      "cabinet"
+    ],
+    "issues_detected": [
+      {
+        "title": "Cabinet Damage",
+        "description": "The cabinet under the kitchen sink shows visible signs of damage, possibly due to water exposure.",
+        "category": "interior",
+        "severity": "moderate",
+        "recommendation": "Inspect for leaks in plumbing and repair or replace the damaged cabinet material."
+      }
+    ],
+    "overall_assessment": "The cabinet under the kitchen sink is damaged, likely from water exposure. Further inspection is needed to address potential leaks.",
+    "confidence": 0.9
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1192
+}

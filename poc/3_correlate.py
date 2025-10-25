@@ -145,9 +145,9 @@ Return JSON:
 If audio doesn't mention this area, still include issues from photo but note low correlation.
 """
 
-    # Call GPT-5
+    # Call GPT-4o (best for structured JSON output - 100% reliability)
     response = client.chat.completions.create(
-        model="gpt-4o",  # Using GPT-4o for reasoning
+        model="gpt-4o",  # Using GPT-4o - best for reliable structured outputs
         messages=[{
             "role": "user",
             "content": prompt

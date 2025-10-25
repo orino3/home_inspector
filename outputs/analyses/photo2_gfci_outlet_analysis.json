@@ -1,0 +1,23 @@
+{
+  "photo_path": "sample_data/photos/photo2_gfci_outlet.jpg",
+  "photo_timestamp": 90.0,
+  "analysis": {
+    "location": "Unknown Area",
+    "visible_elements": [
+      "Electrical Outlet"
+    ],
+    "issues_detected": [
+      {
+        "title": "Non-Functioning GFCI Outlet",
+        "description": "The GFCI outlet is labeled as not functioning, which indicates a potential electrical issue.",
+        "category": "electrical",
+        "severity": "major",
+        "recommendation": "Have a licensed electrician inspect and repair or replace the outlet to ensure it is functioning properly and safely."
+      }
+    ],
+    "overall_assessment": "The GFCI outlet is not functioning, which poses a significant electrical concern.",
+    "confidence": 0.9
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1194
+}

@@ -1,0 +1,80 @@
+================================================================================
+HOME INSPECTION REPORT
+================================================================================
+
+Property Address: 123 Main Street, Springfield, IL 62701
+Inspection Date: 2025-10-23
+Report Generated: 2025-10-25T06:38:04.601181
+
+OVERALL CONDITION
+--------------------------------------------------------------------------------
+Rating: Fair (3/5)
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Executive Summary:
+
+The property located at 123 Main Street, Springfield, IL, is a single-family home built in 1985, encompassing approximately 2,400 square feet. The inspection conducted on October 23, 2025, reveals that the home is generally in satisfactory condition for its age and type. The structure is sound, and the home appears to have been maintained adequately. However, several issues have been identified that require attention to ensure safety and to maintain the property’s integrity.
+
+The most critical issue noted is a non-functioning Ground Fault Circuit Interrupter (GFCI) outlet, which poses a safety hazard and should be addressed immediately to ensure electrical safety in the home. Additionally, a moderate concern is the presence of a water stain on the master bedroom ceiling, which may indicate a past or ongoing leak that requires further investigation to prevent potential water damage. A minor issue was also observed, involving water damage to the under-sink cabinet, which, while not immediately concerning, should be repaired to prevent further deterioration.
+
+To maintain the property’s condition and value, it is recommended that the identified issues be addressed in a timely manner. Immediate attention should be given to rectifying the safety hazard posed by the GFCI outlet. Furthermore, it is advisable to consult with a qualified contractor to assess and repair the source of the water stain in the master bedroom. Regular maintenance and prompt repairs will ensure the property remains in good condition and safe for occupancy.
+
+INSPECTION SUMMARY
+--------------------------------------------------------------------------------
+Total Issues Found: 3
+
+By Severity:
+  - Safety Hazard: 1
+  - Moderate: 1
+  - Minor: 1
+
+By Category:
+  - Interior: 2
+  - Electrical: 1
+
+================================================================================
+DETAILED FINDINGS
+================================================================================
+
+
+INTERIOR
+--------------------------------------------------------------------------------
+⚠️ **Water Stain on Master Bedroom Ceiling**
+Location: Ceiling - Master Bedroom
+Severity: Moderate
+
+Description: The ceiling in the master bedroom shows a water stain approximately 12 inches in diameter near the bathroom wall. The stain is brownish, indicating a possible old leak, but it feels slightly damp, suggesting it might be active. This issue indicates a potential leak from the bathroom above, possibly from the shower pan.
+
+Recommendation: Investigate the source of the leak and repair it. Consider repainting the ceiling after ensuring the leak is fixed. A licensed plumber should check the shower pan in the bathroom above.
+
+Inspector Notes: The stain's dampness suggests an active leak. Addressing this issue soon is recommended.
+
+--------------------------------------------------------------------------------
+
+📋 **Under-Sink Cabinet Water Damage**
+Location: Under kitchen sink
+Severity: Minor
+
+Description: The cabinet under the kitchen sink shows visible signs of damage, likely due to past water exposure. The inspector noted warping and discoloration of the particle board, indicating previous water intrusion. Although the pipes appear dry now, the damage suggests there was a leak at some point.
+
+Recommendation: The homeowner should monitor this area for potential leaks and consider replacing the damaged cabinet material.
+
+Inspector Notes: The inspector noted this as a minor issue and recommended monitoring the area.
+
+--------------------------------------------------------------------------------
+
+
+ELECTRICAL
+--------------------------------------------------------------------------------
+🚨 **Non-Functioning GFCI Outlet**
+Location: North wall near the window
+Severity: Safety Hazard
+
+Description: The GFCI outlet located on the north wall near the window is not functioning properly. The inspector tested the outlet and found that it is not tripping, which indicates a malfunction. This poses a significant safety hazard as GFCI outlets are essential for protection against electrical shock, particularly in bedrooms. Immediate replacement by a licensed electrician is recommended.
+
+Recommendation: Have a licensed electrician inspect and repair or replace the outlet to ensure it is functioning properly and safely.
+
+Inspector Notes: This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician.
+
+--------------------------------------------------------------------------------

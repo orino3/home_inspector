@@ -1,0 +1,79 @@
+{
+  "file": "sample_data/audio/inspection_sample.mp3",
+  "duration": 180.0,
+  "language": "en",
+  "full_text": "\n    Good morning, I'm starting the inspection at 123 Main Street.\n    This is a single-family home built in 1985, approximately 2400 square feet.\n\n    I'm now in the master bedroom on the second floor. Looking up at the ceiling,\n    I can see a water stain approximately 12 inches in diameter near the bathroom wall.\n    The stain appears to be brownish in color, which typically indicates an old leak.\n    However, I'm touching it now and it feels slightly damp, so this could be an active leak.\n    I recommend having a licensed plumber investigate the shower pan in the bathroom above\n    to determine the source. This is a moderate concern that should be addressed soon.\n\n    Moving to the electrical outlet on the north wall near the window. I'm testing\n    this GFCI outlet with my tester... and it's not tripping. The GFCI is not functioning\n    properly. This is a safety hazard because GFCI outlets are required in bedrooms\n    for protection against electrical shock. This outlet should be replaced immediately\n    by a licensed electrician. I'm marking this as a major safety concern.\n\n    Now I'm heading down to the kitchen. Looking at the cabinet under the sink,\n    I can see some water damage to the particle board. There's warping and discoloration,\n    which indicates past water intrusion. Checking the pipes... they appear to be dry now,\n    but the damage suggests there was a leak at some point. The homeowner should monitor\n    this area and consider replacing the damaged cabinet bottom. This is a minor issue.\n\n    That concludes the main areas of concern I found during this inspection.\n    ",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 15.0,
+      "text": "Good morning, I'm starting the inspection at 123 Main Street. This is a single-family home built in 1985, approximately 2400 square feet.",
+      "confidence": 0.95
+    },
+    {
+      "id": 1,
+      "start": 15.5,
+      "end": 35.0,
+      "text": "I'm now in the master bedroom on the second floor. Looking up at the ceiling, I can see a water stain approximately 12 inches in diameter near the bathroom wall.",
+      "confidence": 0.92
+    },
+    {
+      "id": 2,
+      "start": 35.5,
+      "end": 55.0,
+      "text": "The stain appears to be brownish in color, which typically indicates an old leak. However, I'm touching it now and it feels slightly damp, so this could be an active leak.",
+      "confidence": 0.94
+    },
+    {
+      "id": 3,
+      "start": 55.5,
+      "end": 75.0,
+      "text": "I recommend having a licensed plumber investigate the shower pan in the bathroom above to determine the source. This is a moderate concern that should be addressed soon.",
+      "confidence": 0.93
+    },
+    {
+      "id": 4,
+      "start": 76.0,
+      "end": 95.0,
+      "text": "Moving to the electrical outlet on the north wall near the window. I'm testing this GFCI outlet with my tester... and it's not tripping.",
+      "confidence": 0.91
+    },
+    {
+      "id": 5,
+      "start": 95.5,
+      "end": 115.0,
+      "text": "The GFCI is not functioning properly. This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock.",
+      "confidence": 0.94
+    },
+    {
+      "id": 6,
+      "start": 115.5,
+      "end": 130.0,
+      "text": "This outlet should be replaced immediately by a licensed electrician. I'm marking this as a major safety concern.",
+      "confidence": 0.96
+    },
+    {
+      "id": 7,
+      "start": 131.0,
+      "end": 150.0,
+      "text": "Now I'm heading down to the kitchen. Looking at the cabinet under the sink, I can see some water damage to the particle board.",
+      "confidence": 0.93
+    },
+    {
+      "id": 8,
+      "start": 150.5,
+      "end": 165.0,
+      "text": "There's warping and discoloration, which indicates past water intrusion. Checking the pipes... they appear to be dry now, but the damage suggests there was a leak at some point.",
+      "confidence": 0.92
+    },
+    {
+      "id": 9,
+      "start": 165.5,
+      "end": 180.0,
+      "text": "The homeowner should monitor this area and consider replacing the damaged cabinet bottom. This is a minor issue. That concludes the main areas of concern I found during this inspection.",
+      "confidence": 0.94
+    }
+  ],
+  "words": []
+}

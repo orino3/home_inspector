@@ -67,7 +67,7 @@ Do NOT use markdown formatting. Return plain text.
 """
 
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4o",  # Using GPT-4o - best for reliable structured outputs
         messages=[{"role": "user", "content": prompt}],
         max_tokens=800,
         temperature=0.5
@@ -149,7 +149,15 @@ def generate_full_report(
     # Extract all issues
     all_issues = []
     for correlation in correlations:
-        correlated_issues = correlation.get('correlation', {}).get('correlated_issues', [])
+        # Handle nested correlation structure
+        correlation_data = correlation.get('correlation', {})
+        if 'correlation' in correlation_data:
+            # Nested structure: correlation.correlation.correlated_issues
+            correlated_issues = correlation_data.get('correlation', {}).get('correlated_issues', [])
+        else:
+            # Flat structure: correlation.correlated_issues
+            correlated_issues = correlation_data.get('correlated_issues', [])
+
         for issue in correlated_issues:
             # Add photo reference
             issue['photo_reference'] = Path(correlation['photo_path']).name

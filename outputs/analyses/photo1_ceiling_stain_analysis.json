@@ -1,0 +1,23 @@
+{
+  "photo_path": "sample_data/photos/photo1_ceiling_stain.jpg",
+  "photo_timestamp": 30.0,
+  "analysis": {
+    "location": "Ceiling - Master Bedroom",
+    "visible_elements": [
+      "ceiling"
+    ],
+    "issues_detected": [
+      {
+        "title": "Water Stain",
+        "description": "There is a visible water stain on the ceiling, indicating a possible leak from above.",
+        "category": "interior",
+        "severity": "moderate",
+        "recommendation": "Investigate the source of the leak and repair it. Consider repainting the ceiling after ensuring the leak is fixed."
+      }
+    ],
+    "overall_assessment": "The ceiling in the master bedroom shows signs of water damage, which should be addressed to prevent further issues.",
+    "confidence": 0.9
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1200
+}
