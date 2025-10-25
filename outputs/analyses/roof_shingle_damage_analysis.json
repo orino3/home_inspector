@@ -1,6 +1,6 @@
 {
-  "photo_path": "sample_data/realistic_photos/roof_shingle_damage.jpg",
-  "photo_timestamp": 200.0,
+  "photo_path": "sample_data/iphone_photos/roof_shingle_damage.jpg",
+  "photo_timestamp": 235.0,
   "analysis": {
     "location": "Roof - North Side",
     "visible_elements": [
@@ -8,16 +8,16 @@
     ],
     "issues_detected": [
       {
-        "title": "Damaged Shingles",
-        "description": "Several asphalt shingles are lifted and appear to be damaged, potentially due to wind or improper installation.",
+        "title": "Cracked and Missing Shingles",
+        "description": "The asphalt shingles are visibly cracked and some are missing, exposing the underlayment.",
         "category": "roof",
-        "severity": "moderate",
-        "recommendation": "Replace damaged shingles to prevent water infiltration and further roof damage."
+        "severity": "major",
+        "recommendation": "Replace damaged and missing shingles to prevent water intrusion and further roof damage."
       }
     ],
-    "overall_assessment": "The roof has visible shingle damage that requires attention to prevent potential leaks.",
+    "overall_assessment": "The roof is in poor condition with significant shingle damage, requiring immediate attention.",
     "confidence": 0.95
   },
   "model_used": "gpt-4o",
-  "tokens_used": 1185
+  "tokens_used": 1187
 }

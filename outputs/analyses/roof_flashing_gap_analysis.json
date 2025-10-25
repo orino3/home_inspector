@@ -1,0 +1,25 @@
+{
+  "photo_path": "sample_data/iphone_photos/roof_flashing_gap.jpg",
+  "photo_timestamp": 260.0,
+  "analysis": {
+    "location": "Roof - Chimney Area",
+    "visible_elements": [
+      "chimney",
+      "flashing",
+      "roof shingles"
+    ],
+    "issues_detected": [
+      {
+        "title": "Flashing Installation",
+        "description": "The flashing around the chimney appears to be improperly installed with visible gaps and potential for water intrusion.",
+        "category": "roof",
+        "severity": "moderate",
+        "recommendation": "Re-evaluate and properly seal the flashing to prevent water leaks."
+      }
+    ],
+    "overall_assessment": "The chimney flashing shows signs of improper installation, which could lead to water intrusion if not addressed.",
+    "confidence": 0.9
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1197
+}

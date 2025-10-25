@@ -1,0 +1,23 @@
+{
+  "photo_path": "sample_data/iphone_photos/driveway_cracks.jpg",
+  "photo_timestamp": 460.0,
+  "analysis": {
+    "location": "Driveway",
+    "visible_elements": [
+      "concrete surface"
+    ],
+    "issues_detected": [
+      {
+        "title": "Cracking in Concrete",
+        "description": "The concrete driveway exhibits significant cracking, which may indicate settling or movement of the underlying soil.",
+        "category": "structural",
+        "severity": "moderate",
+        "recommendation": "Consult a professional to assess the extent of the damage and consider repair options such as patching or resurfacing."
+      }
+    ],
+    "overall_assessment": "The driveway shows moderate cracking, which should be addressed to prevent further deterioration.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1193
+}

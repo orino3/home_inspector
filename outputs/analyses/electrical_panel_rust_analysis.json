@@ -1,0 +1,25 @@
+{
+  "photo_path": "sample_data/iphone_photos/electrical_panel_rust.jpg",
+  "photo_timestamp": 135.0,
+  "analysis": {
+    "location": "Electrical Panel",
+    "visible_elements": [
+      "circuit breakers",
+      "metal enclosure",
+      "wiring"
+    ],
+    "issues_detected": [
+      {
+        "title": "Corrosion on Panel",
+        "description": "The metal enclosure of the electrical panel shows significant rust and corrosion, which may compromise the integrity of the panel.",
+        "category": "electrical",
+        "severity": "major",
+        "recommendation": "Consult a licensed electrician to assess the extent of the corrosion and replace or repair the panel as necessary."
+      }
+    ],
+    "overall_assessment": "The electrical panel is in poor condition due to visible corrosion, posing potential safety and operational concerns.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1206
+}

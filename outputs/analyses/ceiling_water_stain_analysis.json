@@ -1,24 +1,26 @@
 {
-  "photo_path": "sample_data/realistic_photos/ceiling_water_stain.jpg",
+  "photo_path": "sample_data/iphone_photos/ceiling_water_stain.jpg",
   "photo_timestamp": 30.0,
   "analysis": {
-    "location": "Interior - Ceiling",
+    "location": "Bedroom",
     "visible_elements": [
       "ceiling",
-      "light fixture"
+      "window",
+      "bed",
+      "lamp"
     ],
     "issues_detected": [
       {
-        "title": "Water Stain on Ceiling",
-        "description": "A large brown water stain is visible around the light fixture on the ceiling, indicating a possible leak from above.",
+        "title": "Ceiling Water Stain",
+        "description": "A large, circular water stain is present on the ceiling, indicating a possible leak from above.",
         "category": "interior",
         "severity": "moderate",
-        "recommendation": "Investigate the source of the leak, which may be from plumbing or roof issues. Repair the leak and replace any damaged materials to prevent mold growth."
+        "recommendation": "Investigate the source of the leak, which could be from plumbing or roof issues. Repair the leak and replace or treat the stained ceiling material."
       }
     ],
-    "overall_assessment": "The ceiling shows signs of water damage, likely from a leak, which needs immediate attention to prevent further damage.",
+    "overall_assessment": "The room shows signs of water damage on the ceiling, which requires further investigation and repair.",
     "confidence": 0.95
   },
   "model_used": "gpt-4o",
-  "tokens_used": 1217
+  "tokens_used": 1212
 }

@@ -1,0 +1,154 @@
+{
+  "duration": 540.0,
+  "language": "en",
+  "full_text": "Good morning, beginning inspection at 789 Maple Drive. This is a two-story colonial built in 1992, approximately 3,800 square feet. Weather is clear, good conditions for the inspection.\n\nStarting in the master bedroom upstairs. I can see water staining on the ceiling near the corner by the bathroom. The stain is brownish, roughly 12 inches across, and feels slightly damp to the touch. This suggests an active leak, possibly from bathroom plumbing above or roof penetration. Recommend immediate plumbing inspection.\n\nMoving to the windows. This double-pane window in the living room has condensation trapped between the glass panes. You can see water droplets and fogging between the two layers. This indicates the seal has failed. Not an emergency but will affect energy efficiency. Recommend window replacement.\n\nNow checking the flooring in the hallway. There's visible water damage to these hardwood floors - you can see the planks are warping and buckling, some boards lifting at the edges. Dark discoloration indicates prolonged moisture exposure. This needs to be addressed and the moisture source identified.\n\nTesting electrical outlets. This GFCI outlet in the bedroom on the north wall - pressing the test button and it's not tripping. This is a safety hazard. GFCI outlets are critical for shock protection. This needs immediate replacement by a licensed electrician.\n\nIn the basement, inspecting the main electrical panel. I can see rust and corrosion around the panel box, especially at the bottom edges. Some rust staining on the door. The panel is about 20 years old. This corrosion is concerning - recommend electrical evaluation and potential panel upgrade.\n\nMoving to the kitchen. Looking under the sink - there's water damage to the cabinet floor. The particle board is warped and stained, indicating past water intrusion. The supply lines look dry currently, but this damage suggests there was a leak. Homeowner should monitor this area closely.\n\nNow the water heater in the utility room. This unit is showing its age - visible rust on the tank exterior and I can see moisture pooling at the base. The tank is approximately 15 years old, near end of life. There's active leaking. Recommend immediate water heater replacement.\n\nIn the bathroom, checking around the toilet base. There's water staining on the floor tiles around the toilet. The wax seal may be failing or there's a leak at the base connection. This moisture can lead to subfloor damage. Recommend plumber inspection.\n\nHeading up to inspect the roof. On the south-facing slope, I can see significant shingle deterioration. Multiple asphalt shingles are curling, cracked, several appear to be missing entirely. Extensive granule loss visible. This roof is showing severe age-related wear. Recommend roof replacement within one to two years.\n\nLooking at the chimney flashing. There are visible gaps where the metal flashing meets the brick chimney. Water can enter through these openings during rain. The sealant has deteriorated. Recommend re-flashing and proper sealing around the chimney.\n\nBack in the basement for foundation inspection. On the east wall, there's a vertical crack in the concrete foundation, approximately one-eighth inch wide, running about six feet up the wall. Some moisture staining visible around the crack. This needs monitoring and structural engineer consultation.\n\nChecking the support beams. This main support beam in the basement is sagging noticeably in the center - you can see the bow. The floor joists above are affected. This is a structural concern and safety issue. Recommend immediate structural engineer evaluation.\n\nInspecting the HVAC system. The furnace in the basement shows significant rust and corrosion on the exterior casing. Multiple rust spots, some surface deterioration. Unit is approximately 18 years old. While currently functional, this should be budgeted for replacement soon.\n\nOutside, checking the AC condenser unit. The cooling fins on the side are bent and damaged, likely from impact or debris. This reduces efficiency. Not critical but should be straightened for optimal performance. Minor issue.\n\nExamining the exterior siding. On the west side of the house, there's damage to the vinyl siding - visible cracks, warping, and one section is broken with a piece missing. This compromises weather protection. Recommend siding repair or replacement in this area.\n\nLooking at the gutters. The rain gutter along the front of the house is separating from the fascia board - there's a visible gap and the gutter is sagging. This prevents proper drainage. Could lead to foundation issues. Recommend gutter reattachment.\n\nChecking the deck. The wooden deck railing is loose and wobbly. There's movement at the connection points between rail and posts. This is a safety hazard, especially with the deck being six feet off the ground. Recommend immediate repair for safety.\n\nLooking at the driveway. The concrete has multiple cracks running across it, some spalling and surface deterioration. This is typical wear for the age but will worsen over time. Not urgent but should be monitored.\n\nNow in the attic. I'm seeing dark staining on the rafters and roof sheathing - this appears to be mold growth. Likely due to inadequate ventilation and past moisture intrusion. This is a health and safety concern. Recommend mold remediation and improved ventilation.\n\nFinally, checking attic insulation. The insulation coverage is inadequate - the batts are thin and patchy with significant gaps visible between joists. This affects energy efficiency and heating costs. Recommend adding insulation to meet current standards.\n\nThat completes the main inspection. Overall the home has several items requiring attention, with a few safety concerns that should be addressed immediately. Detailed report to follow.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 25.0,
+      "text": "Good morning, beginning inspection at 789 Maple Drive. This is a two-story colonial built in 1992, approximately 3,800 square feet. Weather is clear, good conditions for the inspection.",
+      "confidence": 0.95
+    },
+    {
+      "id": 1,
+      "start": 26.0,
+      "end": 55.0,
+      "text": "Starting in the master bedroom upstairs. I can see water staining on the ceiling near the corner by the bathroom. The stain is brownish, roughly 12 inches across, and feels slightly damp to the touch. This suggests an active leak, possibly from bathroom plumbing above or roof penetration. Recommend immediate plumbing inspection.",
+      "confidence": 0.94
+    },
+    {
+      "id": 2,
+      "start": 56.0,
+      "end": 80.0,
+      "text": "Moving to the windows. This double-pane window in the living room has condensation trapped between the glass panes. You can see water droplets and fogging between the two layers. This indicates the seal has failed. Not an emergency but will affect energy efficiency. Recommend window replacement.",
+      "confidence": 0.93
+    },
+    {
+      "id": 3,
+      "start": 81.0,
+      "end": 105.0,
+      "text": "Now checking the flooring in the hallway. There's visible water damage to these hardwood floors - you can see the planks are warping and buckling, some boards lifting at the edges. Dark discoloration indicates prolonged moisture exposure. This needs to be addressed and the moisture source identified.",
+      "confidence": 0.92
+    },
+    {
+      "id": 4,
+      "start": 106.0,
+      "end": 130.0,
+      "text": "Testing electrical outlets. This GFCI outlet in the bedroom on the north wall - pressing the test button and it's not tripping. This is a safety hazard. GFCI outlets are critical for shock protection. This needs immediate replacement by a licensed electrician.",
+      "confidence": 0.94
+    },
+    {
+      "id": 5,
+      "start": 131.0,
+      "end": 155.0,
+      "text": "In the basement, inspecting the main electrical panel. I can see rust and corrosion around the panel box, especially at the bottom edges. Some rust staining on the door. The panel is about 20 years old. This corrosion is concerning - recommend electrical evaluation and potential panel upgrade.",
+      "confidence": 0.93
+    },
+    {
+      "id": 6,
+      "start": 156.0,
+      "end": 180.0,
+      "text": "Moving to the kitchen. Looking under the sink - there's water damage to the cabinet floor. The particle board is warped and stained, indicating past water intrusion. The supply lines look dry currently, but this damage suggests there was a leak. Homeowner should monitor this area closely.",
+      "confidence": 0.92
+    },
+    {
+      "id": 7,
+      "start": 181.0,
+      "end": 205.0,
+      "text": "Now the water heater in the utility room. This unit is showing its age - visible rust on the tank exterior and I can see moisture pooling at the base. The tank is approximately 15 years old, near end of life. There's active leaking. Recommend immediate water heater replacement.",
+      "confidence": 0.93
+    },
+    {
+      "id": 8,
+      "start": 206.0,
+      "end": 230.0,
+      "text": "In the bathroom, checking around the toilet base. There's water staining on the floor tiles around the toilet. The wax seal may be failing or there's a leak at the base connection. This moisture can lead to subfloor damage. Recommend plumber inspection.",
+      "confidence": 0.94
+    },
+    {
+      "id": 9,
+      "start": 231.0,
+      "end": 255.0,
+      "text": "Heading up to inspect the roof. On the south-facing slope, I can see significant shingle deterioration. Multiple asphalt shingles are curling, cracked, several appear to be missing entirely. Extensive granule loss visible. This roof is showing severe age-related wear. Recommend roof replacement within one to two years.",
+      "confidence": 0.93
+    },
+    {
+      "id": 10,
+      "start": 256.0,
+      "end": 280.0,
+      "text": "Looking at the chimney flashing. There are visible gaps where the metal flashing meets the brick chimney. Water can enter through these openings during rain. The sealant has deteriorated. Recommend re-flashing and proper sealing around the chimney.",
+      "confidence": 0.92
+    },
+    {
+      "id": 11,
+      "start": 281.0,
+      "end": 305.0,
+      "text": "Back in the basement for foundation inspection. On the east wall, there's a vertical crack in the concrete foundation, approximately one-eighth inch wide, running about six feet up the wall. Some moisture staining visible around the crack. This needs monitoring and structural engineer consultation.",
+      "confidence": 0.93
+    },
+    {
+      "id": 12,
+      "start": 306.0,
+      "end": 330.0,
+      "text": "Checking the support beams. This main support beam in the basement is sagging noticeably in the center - you can see the bow. The floor joists above are affected. This is a structural concern and safety issue. Recommend immediate structural engineer evaluation.",
+      "confidence": 0.94
+    },
+    {
+      "id": 13,
+      "start": 331.0,
+      "end": 355.0,
+      "text": "Inspecting the HVAC system. The furnace in the basement shows significant rust and corrosion on the exterior casing. Multiple rust spots, some surface deterioration. Unit is approximately 18 years old. While currently functional, this should be budgeted for replacement soon.",
+      "confidence": 0.93
+    },
+    {
+      "id": 14,
+      "start": 356.0,
+      "end": 380.0,
+      "text": "Outside, checking the AC condenser unit. The cooling fins on the side are bent and damaged, likely from impact or debris. This reduces efficiency. Not critical but should be straightened for optimal performance. Minor issue.",
+      "confidence": 0.92
+    },
+    {
+      "id": 15,
+      "start": 381.0,
+      "end": 405.0,
+      "text": "Examining the exterior siding. On the west side of the house, there's damage to the vinyl siding - visible cracks, warping, and one section is broken with a piece missing. This compromises weather protection. Recommend siding repair or replacement in this area.",
+      "confidence": 0.93
+    },
+    {
+      "id": 16,
+      "start": 406.0,
+      "end": 430.0,
+      "text": "Looking at the gutters. The rain gutter along the front of the house is separating from the fascia board - there's a visible gap and the gutter is sagging. This prevents proper drainage. Could lead to foundation issues. Recommend gutter reattachment.",
+      "confidence": 0.94
+    },
+    {
+      "id": 17,
+      "start": 431.0,
+      "end": 455.0,
+      "text": "Checking the deck. The wooden deck railing is loose and wobbly. There's movement at the connection points between rail and posts. This is a safety hazard, especially with the deck being six feet off the ground. Recommend immediate repair for safety.",
+      "confidence": 0.93
+    },
+    {
+      "id": 18,
+      "start": 456.0,
+      "end": 480.0,
+      "text": "Looking at the driveway. The concrete has multiple cracks running across it, some spalling and surface deterioration. This is typical wear for the age but will worsen over time. Not urgent but should be monitored.",
+      "confidence": 0.92
+    },
+    {
+      "id": 19,
+      "start": 481.0,
+      "end": 505.0,
+      "text": "Now in the attic. I'm seeing dark staining on the rafters and roof sheathing - this appears to be mold growth. Likely due to inadequate ventilation and past moisture intrusion. This is a health and safety concern. Recommend mold remediation and improved ventilation.",
+      "confidence": 0.94
+    },
+    {
+      "id": 20,
+      "start": 506.0,
+      "end": 530.0,
+      "text": "Finally, checking attic insulation. The insulation coverage is inadequate - the batts are thin and patchy with significant gaps visible between joists. This affects energy efficiency and heating costs. Recommend adding insulation to meet current standards.",
+      "confidence": 0.93
+    }
+  ]
+}

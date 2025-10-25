@@ -1,0 +1,17 @@
+{
+  "photo_path": "sample_data/iphone_photos/deck_railing_loose.jpg",
+  "photo_timestamp": 435.0,
+  "analysis": {
+    "location": "Deck - Railing",
+    "visible_elements": [
+      "wood railing",
+      "balusters",
+      "handrail"
+    ],
+    "issues_detected": [],
+    "overall_assessment": "The deck railing appears to be in good condition with no visible defects or damage.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1120
+}

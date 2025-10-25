@@ -1,0 +1,25 @@
+{
+  "photo_path": "sample_data/iphone_photos/water_heater_leak.jpg",
+  "photo_timestamp": 185.0,
+  "analysis": {
+    "location": "Utility Room",
+    "visible_elements": [
+      "water heater",
+      "concrete floor",
+      "pipes"
+    ],
+    "issues_detected": [
+      {
+        "title": "Rust and Leakage on Water Heater",
+        "description": "The water heater shows significant rust and evidence of leakage at the bottom, indicating potential corrosion and failure.",
+        "category": "plumbing",
+        "severity": "major",
+        "recommendation": "Immediate inspection by a licensed plumber is recommended. Consider replacing the water heater to prevent further damage and potential water damage to surrounding areas."
+      }
+    ],
+    "overall_assessment": "The water heater is in poor condition with visible rust and leakage, requiring urgent attention.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1209
+}

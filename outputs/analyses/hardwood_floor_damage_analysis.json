@@ -1,0 +1,24 @@
+{
+  "photo_path": "sample_data/iphone_photos/hardwood_floor_damage.jpg",
+  "photo_timestamp": 85.0,
+  "analysis": {
+    "location": "Interior - Living Room or Bedroom",
+    "visible_elements": [
+      "hardwood flooring",
+      "baseboard"
+    ],
+    "issues_detected": [
+      {
+        "title": "Warped and Discolored Flooring",
+        "description": "The hardwood flooring is visibly warped and discolored, indicating potential water damage.",
+        "category": "interior",
+        "severity": "major",
+        "recommendation": "Investigate and repair any sources of moisture. Replace damaged flooring and ensure proper sealing to prevent future issues."
+      }
+    ],
+    "overall_assessment": "The flooring shows significant signs of water damage, requiring immediate attention to prevent further deterioration.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1200
+}

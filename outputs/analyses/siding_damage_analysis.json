@@ -1,0 +1,30 @@
+{
+  "photo_path": "sample_data/iphone_photos/siding_damage.jpg",
+  "photo_timestamp": 385.0,
+  "analysis": {
+    "location": "Exterior - Siding",
+    "visible_elements": [
+      "vinyl siding"
+    ],
+    "issues_detected": [
+      {
+        "title": "Warped and Cracked Siding",
+        "description": "The vinyl siding is visibly warped and cracked, indicating potential heat damage or improper installation.",
+        "category": "exterior",
+        "severity": "moderate",
+        "recommendation": "Replace the damaged sections of siding to prevent moisture intrusion and further deterioration."
+      },
+      {
+        "title": "Hole in Siding",
+        "description": "There is a hole in the siding, which can allow water and pests to enter, potentially causing damage to the underlying structure.",
+        "category": "exterior",
+        "severity": "major",
+        "recommendation": "Seal or replace the affected area immediately to prevent water damage and pest infestation."
+      }
+    ],
+    "overall_assessment": "The exterior siding shows significant damage that requires prompt attention to prevent further issues.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1269
+}

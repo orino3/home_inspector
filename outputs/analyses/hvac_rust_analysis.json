@@ -1,25 +1,33 @@
 {
-  "photo_path": "sample_data/realistic_photos/hvac_rust.jpg",
-  "photo_timestamp": 300.0,
+  "photo_path": "sample_data/iphone_photos/hvac_rust.jpg",
+  "photo_timestamp": 335.0,
   "analysis": {
-    "location": "Utility Room - HVAC Area",
+    "location": "Basement - Furnace Area",
     "visible_elements": [
       "furnace",
       "ductwork",
-      "vent pipes"
+      "concrete floor",
+      "cinder block wall"
     ],
     "issues_detected": [
       {
         "title": "Severe Rust on Furnace",
-        "description": "The furnace casing shows significant rust and corrosion, particularly on the front panel. This indicates potential moisture issues and could compromise the structural integrity of the unit.",
+        "description": "The furnace casing shows extensive rust, indicating potential deterioration of the metal and possible internal damage.",
         "category": "hvac",
         "severity": "major",
-        "recommendation": "Immediate evaluation by a licensed HVAC technician is recommended to assess the extent of the damage and determine if repair or replacement is necessary."
+        "recommendation": "Have a licensed HVAC technician inspect the furnace for structural integrity and functionality. Consider replacement if necessary."
+      },
+      {
+        "title": "Potential Air Quality Concerns",
+        "description": "Rust and potential internal damage may affect air quality and efficiency.",
+        "category": "safety",
+        "severity": "safety_hazard",
+        "recommendation": "Ensure proper ventilation and have the furnace inspected for any leaks or emissions."
       }
     ],
-    "overall_assessment": "The furnace exhibits severe rust, which may affect its functionality and safety. Prompt professional assessment is advised.",
+    "overall_assessment": "The furnace is in poor condition with significant rust, posing potential safety and functionality concerns.",
     "confidence": 0.95
   },
   "model_used": "gpt-4o",
-  "tokens_used": 1224
+  "tokens_used": 1280
 }

@@ -1,278 +1,974 @@
 {
   "metadata": {
-    "generated_at": "2025-10-25T07:29:42.452123",
+    "generated_at": "2025-10-25T18:34:37.903424",
     "inspection_date": "2025-10-25",
     "generator": "Home Inspector AI - POC v0.1"
   },
   "property_info": {
-    "address": "456 Oak Avenue, Portland, OR 97210",
-    "property_type": "Single Family Home",
-    "year_built": 1998,
-    "square_footage": "3,200 sq ft",
+    "address": "789 Maple Drive, Portland, OR 97210",
+    "property_type": "Two-Story Colonial",
+    "year_built": 1992,
+    "square_footage": "3,800 sq ft",
     "inspection_date": "2025-10-25",
     "inspector_name": "Professional Inspector (AI-Assisted)",
-    "customer_name": "Test Client (Realistic Photo Test)"
+    "customer_name": "Test Client (iPhone Photo Test)"
   },
-  "executive_summary": "Executive Summary:\n\nThe property located at 456 Oak Avenue, Portland, OR 97210, is a single-family home constructed in 1998, encompassing 3,200 square feet. The inspection conducted on October 25, 2025, reveals that the home is generally well-maintained, with a solid foundation and no significant structural issues. However, several areas require attention to ensure the continued safety and integrity of the home.\n\nThe inspection identified a total of six issues, with the most critical being severe rust on the furnace, which may compromise its efficiency and safety. This issue warrants immediate attention to prevent potential heating failures or safety hazards. Additionally, the presence of water damage and potential mold growth under the kitchen sink, along with a water stain on the master bedroom ceiling, suggests ongoing moisture issues that could lead to further damage if not promptly addressed. The roof's aging shingles also require evaluation and potential replacement to prevent future leaks. Furthermore, a vertical crack in the basement concrete wall, though not immediately threatening, should be monitored for any signs of expansion.\n\nTo enhance the safety and functionality of the property, it is recommended to replace the non-functioning GFCI outlet to mitigate electrical hazards. Addressing these issues with timely repairs and maintenance will help preserve the home's value and ensure a safe living environment for the occupants. It is advisable to consult with qualified professionals for detailed assessments and remediation of the identified concerns.",
+  "executive_summary": "Executive Summary:\n\nThe property located at 789 Maple Drive, Portland, OR 97210, is a two-story Colonial residence built in 1992, encompassing approximately 3,800 square feet. The inspection conducted on October 25, 2025, by Professional Inspector (AI-Assisted), reveals that while the home maintains some of its original charm and structural integrity, there are several areas of concern that require attention. The residence exhibits signs of moderate wear and tear consistent with its age, as well as some significant issues that need to be addressed to ensure the safety, functionality, and longevity of the property.\n\nAmong the major concerns identified are warped and discolored hardwood flooring, corrosion on the electrical panel, and rust and leakage on the water heater, which could potentially lead to more severe structural and safety issues if not promptly remedied. The roof presents cracked and missing shingles, along with mold growth on the sheathing and rafters, indicating potential water intrusion and possible health hazards. Additionally, the property shows signs of structural stress with cracks in a wooden beam and sagging, as well as a hole in the siding that could compromise the building envelope. Safety hazards such as a non-functioning GFCI outlet in the bedroom and a loose and wobbly deck railing further underscore the need for immediate corrective measures.\n\nIt is recommended that a licensed contractor be engaged to address these major issues promptly. Furthermore, a thorough evaluation by a roofing specialist and a mold remediation expert is advised to mitigate any potential health risks. Regular maintenance and repair of moderate issues, such as gutter damage and inadequate attic insulation, will help preserve the property\u2019s condition. By addressing these concerns, the homeowner can enhance the safety, efficiency, and value of the property.",
   "overall_condition": {
-    "rating": 3,
-    "text": "Fair",
-    "severity_score": 21
+    "rating": 1,
+    "text": "Needs Immediate Attention",
+    "severity_score": 96
   },
   "statistics": {
-    "total_issues": 6,
+    "total_issues": 27,
     "by_severity": {
-      "safety_hazard": 1,
-      "major": 1,
-      "moderate": 4,
-      "minor": 0,
+      "safety_hazard": 4,
+      "major": 8,
+      "moderate": 14,
+      "minor": 1,
       "informational": 0
     },
     "by_category": {
-      "interior": 1,
-      "electrical": 1,
-      "plumbing": 1,
-      "roof": 1,
-      "structural": 1,
-      "hvac": 1
+      "interior": 4,
+      "electrical": 2,
+      "plumbing": 3,
+      "roof": 2,
+      "structural": 4,
+      "safety": 5,
+      "hvac": 3,
+      "exterior": 3,
+      "other": 1
     }
   },
   "sections": {
     "interior": {
       "title": "Interior",
-      "issue_count": 1,
-      "content": "\u26a0\ufe0f **Water Stain on Master Bedroom Ceiling**\nLocation: Master Bedroom Ceiling near Bathroom Wall\nSeverity: Moderate\n\nDescription: A large brown water stain is visible on the ceiling near the bathroom wall in the master bedroom. The stain measures approximately 12-14 inches across and feels slightly damp to the touch, indicating a potential active leak from the bathroom above. This suggests a possible plumbing issue, such as a leak from the shower pan or fixtures.\n\nRecommendation: Investigate the source of the leak, which may be from plumbing or roof issues. Repair the leak and replace any damaged materials to prevent mold growth. Recommend plumber inspection of shower pan and fixtures.\n\nInspector Notes: Recommend plumber inspection of shower pan and fixtures.\n\n--------------------------------------------------------------------------------\n",
+      "issue_count": 4,
+      "content": "\u26a0\ufe0f **Ceiling Water Stain in Master Bedroom**\nLocation: Master bedroom ceiling near the corner by the bathroom\nSeverity: Moderate\n\nDescription: A large, circular water stain is visible on the ceiling of the master bedroom, indicating a potential leak. The stain is brownish, approximately 12 inches across, and feels slightly damp, suggesting an active leak. This could be due to plumbing issues from the bathroom above or a roof penetration.\n\nRecommendation: Investigate the source of the leak, which could be from plumbing or roof issues. Repair the leak and replace or treat the stained ceiling material. Recommend immediate plumbing inspection.\n\nInspector Notes: The stain is brownish, roughly 12 inches across, and feels slightly damp to the touch. This suggests an active leak.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Condensation on Double-Pane Window**\nLocation: Living room window\nSeverity: Moderate\n\nDescription: The double-pane window in the living room exhibits visible condensation between the panes, indicating a seal failure. This is evident from the water droplets and fogging trapped between the glass layers, as observed in both the photo and the inspector's audio narration. While not an immediate emergency, this issue affects the energy efficiency of the home and should be addressed to prevent further moisture problems.\n\nRecommendation: Consider replacing the window or repairing the seal to improve energy efficiency and prevent further moisture issues.\n\nInspector Notes: Not an emergency but will affect energy efficiency. Recommend window replacement.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Warped and Discolored Hardwood Flooring**\nLocation: Hallway\nSeverity: Major\n\nDescription: The hardwood flooring in the hallway shows significant warping and discoloration, indicating potential water damage. The inspector noted visible water damage with planks warping, buckling, and some boards lifting at the edges. Dark discoloration suggests prolonged moisture exposure, requiring immediate attention to identify and repair the moisture source.\n\nRecommendation: Investigate and repair any sources of moisture. Replace damaged flooring and ensure proper sealing to prevent future issues.\n\nInspector Notes: This needs to be addressed and the moisture source identified.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Inadequate Attic Insulation**\nLocation: Attic\nSeverity: Moderate\n\nDescription: The attic insulation is insufficient, with thin and patchy batts and significant gaps between joists. This inadequacy affects energy efficiency and heating costs.\n\nRecommendation: Add insulation to meet current standards for improved energy efficiency.\n\nInspector Notes: Recommend adding insulation to meet current standards.\n\n--------------------------------------------------------------------------------\n",
       "issues": [
         {
-          "title": "Water Stain on Master Bedroom Ceiling",
-          "description": "A large brown water stain is visible on the ceiling near the bathroom wall in the master bedroom. The stain measures approximately 12-14 inches across and feels slightly damp to the touch, indicating a potential active leak from the bathroom above. This suggests a possible plumbing issue, such as a leak from the shower pan or fixtures.",
+          "title": "Ceiling Water Stain in Master Bedroom",
+          "description": "A large, circular water stain is visible on the ceiling of the master bedroom, indicating a potential leak. The stain is brownish, approximately 12 inches across, and feels slightly damp, suggesting an active leak. This could be due to plumbing issues from the bathroom above or a roof penetration.",
           "category": "interior",
           "severity": "moderate",
-          "location": "Master Bedroom Ceiling near Bathroom Wall",
+          "location": "Master bedroom ceiling near the corner by the bathroom",
           "evidence": {
-            "from_photo": "A large brown water stain is visible around the light fixture on the ceiling.",
-            "from_audio": "The stain is brownish, appears to be about 12-14 inches across. It's slightly damp, suggesting an active leak from the bathroom above.",
-            "correlation_confidence": 0.9
+            "from_photo": "A large, circular water stain is present on the ceiling, indicating a possible leak from above.",
+            "from_audio": "Water staining on the ceiling near the corner by the bathroom. The stain is brownish, roughly 12 inches across, and feels slightly damp to the touch. This suggests an active leak, possibly from bathroom plumbing above or roof penetration.",
+            "correlation_confidence": 1.0
           },
-          "recommendations": "Investigate the source of the leak, which may be from plumbing or roof issues. Repair the leak and replace any damaged materials to prevent mold growth. Recommend plumber inspection of shower pan and fixtures.",
-          "inspector_notes": "Recommend plumber inspection of shower pan and fixtures.",
+          "recommendations": "Investigate the source of the leak, which could be from plumbing or roof issues. Repair the leak and replace or treat the stained ceiling material. Recommend immediate plumbing inspection.",
+          "inspector_notes": "The stain is brownish, roughly 12 inches across, and feels slightly damp to the touch. This suggests an active leak.",
           "photo_reference": "ceiling_water_stain.jpg",
           "photo_timestamp": 30.0
+        },
+        {
+          "title": "Condensation on Double-Pane Window",
+          "description": "The double-pane window in the living room exhibits visible condensation between the panes, indicating a seal failure. This is evident from the water droplets and fogging trapped between the glass layers, as observed in both the photo and the inspector's audio narration. While not an immediate emergency, this issue affects the energy efficiency of the home and should be addressed to prevent further moisture problems.",
+          "category": "interior",
+          "severity": "moderate",
+          "location": "Living room window",
+          "evidence": {
+            "from_photo": "Visible condensation between the panes of the double-glazed window, indicating a possible seal failure.",
+            "from_audio": "This double-pane window in the living room has condensation trapped between the glass panes. You can see water droplets and fogging between the two layers. This indicates the seal has failed.",
+            "correlation_confidence": 1.0
+          },
+          "recommendations": "Consider replacing the window or repairing the seal to improve energy efficiency and prevent further moisture issues.",
+          "inspector_notes": "Not an emergency but will affect energy efficiency. Recommend window replacement.",
+          "photo_reference": "window_condensation.jpg",
+          "photo_timestamp": 60.0
+        },
+        {
+          "title": "Warped and Discolored Hardwood Flooring",
+          "description": "The hardwood flooring in the hallway shows significant warping and discoloration, indicating potential water damage. The inspector noted visible water damage with planks warping, buckling, and some boards lifting at the edges. Dark discoloration suggests prolonged moisture exposure, requiring immediate attention to identify and repair the moisture source.",
+          "category": "interior",
+          "severity": "major",
+          "location": "Hallway",
+          "evidence": {
+            "from_photo": "The hardwood flooring is visibly warped and discolored, indicating potential water damage.",
+            "from_audio": "Visible water damage to these hardwood floors - planks are warping and buckling, some boards lifting at the edges. Dark discoloration indicates prolonged moisture exposure.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Investigate and repair any sources of moisture. Replace damaged flooring and ensure proper sealing to prevent future issues.",
+          "inspector_notes": "This needs to be addressed and the moisture source identified.",
+          "photo_reference": "hardwood_floor_damage.jpg",
+          "photo_timestamp": 85.0
+        },
+        {
+          "title": "Inadequate Attic Insulation",
+          "description": "The attic insulation is insufficient, with thin and patchy batts and significant gaps between joists. This inadequacy affects energy efficiency and heating costs.",
+          "category": "interior",
+          "severity": "moderate",
+          "location": "Attic",
+          "evidence": {
+            "from_photo": "Not visible in the provided photo.",
+            "from_audio": "Inspector observed inadequate insulation coverage, noting thin and patchy batts with gaps between joists.",
+            "correlation_confidence": 0.8
+          },
+          "recommendations": "Add insulation to meet current standards for improved energy efficiency.",
+          "inspector_notes": "Recommend adding insulation to meet current standards.",
+          "photo_reference": "attic_mold.jpg",
+          "photo_timestamp": 485.0
         }
       ]
     },
     "electrical": {
       "title": "Electrical",
-      "issue_count": 1,
-      "content": "\ud83d\udea8 **Non-Functioning GFCI Outlet**\nLocation: Bedroom, north wall\nSeverity: Safety Hazard\n\nDescription: The GFCI outlet located on the interior wall appears properly installed with no visible defects in the photo. However, the inspector noted that the GFCI outlet in the bedroom on the north wall does not trip when the test button is pressed, indicating a malfunction. This is identified as a safety hazard because GFCI outlets are essential for shock protection.\n\nRecommendation: Immediate replacement by a licensed electrician is recommended.\n\nInspector Notes: GFCI outlets are required for shock protection.\n\n--------------------------------------------------------------------------------\n",
+      "issue_count": 2,
+      "content": "\ud83d\udea8 **GFCI Outlet in Bedroom Not Functioning**\nLocation: Bedroom - North Wall\nSeverity: Safety Hazard\n\nDescription: The GFCI outlet in the bedroom on the north wall is not tripping when the test button is pressed. This is a critical safety hazard as GFCI outlets are essential for shock protection.\n\nRecommendation: Immediate replacement by a licensed electrician.\n\nInspector Notes: This needs immediate replacement by a licensed electrician.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Corrosion on Electrical Panel**\nLocation: Basement electrical panel\nSeverity: Major\n\nDescription: The electrical panel located in the basement exhibits significant rust and corrosion, particularly around the bottom edges of the metal enclosure. This corrosion is concerning as it may compromise the integrity and safety of the panel. The panel is approximately 20 years old, and the rust staining on the door further indicates deterioration. Immediate evaluation by a licensed electrician is recommended to assess the extent of the damage and consider a potential panel upgrade.\n\nRecommendation: Consult a licensed electrician to assess the extent of the corrosion and replace or repair the panel as necessary.\n\nInspector Notes: This corrosion is concerning - recommend electrical evaluation and potential panel upgrade.\n\n--------------------------------------------------------------------------------\n",
       "issues": [
         {
-          "title": "Non-Functioning GFCI Outlet",
-          "description": "The GFCI outlet located on the interior wall appears properly installed with no visible defects in the photo. However, the inspector noted that the GFCI outlet in the bedroom on the north wall does not trip when the test button is pressed, indicating a malfunction. This is identified as a safety hazard because GFCI outlets are essential for shock protection.",
+          "title": "GFCI Outlet in Bedroom Not Functioning",
+          "description": "The GFCI outlet in the bedroom on the north wall is not tripping when the test button is pressed. This is a critical safety hazard as GFCI outlets are essential for shock protection.",
           "category": "electrical",
           "severity": "safety_hazard",
-          "location": "Bedroom, north wall",
+          "location": "Bedroom - North Wall",
           "evidence": {
             "from_photo": "The GFCI outlet appears to be properly installed with no visible defects.",
-            "from_audio": "The inspector stated that the GFCI outlet is not tripping when tested, which is a safety hazard.",
-            "correlation_confidence": 0.8
+            "from_audio": "Testing electrical outlets. This GFCI outlet in the bedroom on the north wall - pressing the test button and it's not tripping. This is a safety hazard. GFCI outlets are critical for shock protection.",
+            "correlation_confidence": 0.9
           },
-          "recommendations": "Immediate replacement by a licensed electrician is recommended.",
-          "inspector_notes": "GFCI outlets are required for shock protection.",
+          "recommendations": "Immediate replacement by a licensed electrician.",
+          "inspector_notes": "This needs immediate replacement by a licensed electrician.",
           "photo_reference": "gfci_outlet.jpg",
-          "photo_timestamp": 90.0
+          "photo_timestamp": 110.0
+        },
+        {
+          "title": "Corrosion on Electrical Panel",
+          "description": "The electrical panel located in the basement exhibits significant rust and corrosion, particularly around the bottom edges of the metal enclosure. This corrosion is concerning as it may compromise the integrity and safety of the panel. The panel is approximately 20 years old, and the rust staining on the door further indicates deterioration. Immediate evaluation by a licensed electrician is recommended to assess the extent of the damage and consider a potential panel upgrade.",
+          "category": "electrical",
+          "severity": "major",
+          "location": "Basement electrical panel",
+          "evidence": {
+            "from_photo": "The metal enclosure of the electrical panel shows significant rust and corrosion.",
+            "from_audio": "I can see rust and corrosion around the panel box, especially at the bottom edges. Some rust staining on the door. The panel is about 20 years old.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Consult a licensed electrician to assess the extent of the corrosion and replace or repair the panel as necessary.",
+          "inspector_notes": "This corrosion is concerning - recommend electrical evaluation and potential panel upgrade.",
+          "photo_reference": "electrical_panel_rust.jpg",
+          "photo_timestamp": 135.0
         }
       ]
     },
     "plumbing": {
       "title": "Plumbing",
-      "issue_count": 1,
-      "content": "\u26a0\ufe0f **Water Damage and Potential Mold Growth Under Kitchen Sink**\nLocation: Kitchen - Under Sink Cabinet\nSeverity: Moderate\n\nDescription: The under-sink cabinet in the kitchen shows signs of water damage, including warping and discoloration of the plywood base, as well as potential mold growth. The inspector noted that the particle board cabinet bottom is warped and discolored, indicating past water intrusion. Although the supply lines appear dry at the moment, the damage suggests there was a leak at some point.\n\nRecommendation: Inspect and repair any leaks in the plumbing. Replace the damaged plywood to prevent mold growth and structural issues. Conduct a mold assessment and remediation if necessary.\n\nInspector Notes: Homeowner should monitor this area.\n\n--------------------------------------------------------------------------------\n",
+      "issue_count": 3,
+      "content": "\u26a0\ufe0f **Water Damage Under Kitchen Sink**\nLocation: Under-sink cabinet in the kitchen\nSeverity: Moderate\n\nDescription: The under-sink cabinet base shows significant water staining and potential mold growth, indicating a past or current leak from the plumbing above. The inspector noted that the particle board is warped and stained, suggesting past water intrusion. Although the supply lines appear dry currently, the damage indicates there was a leak. The homeowner should monitor this area closely to prevent further damage.\n\nRecommendation: Inspect plumbing for leaks and repair as necessary. Replace or treat the damaged cabinet base to prevent mold growth.\n\nInspector Notes: The supply lines look dry currently, but this damage suggests there was a leak. Homeowner should monitor this area closely.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Rust and Leakage on Water Heater**\nLocation: Utility Room\nSeverity: Major\n\nDescription: The water heater in the utility room is showing significant rust and evidence of leakage at the bottom. The inspector noted that the unit is approximately 15 years old, which is near the end of its typical lifespan. The presence of moisture pooling at the base indicates active leaking, suggesting potential corrosion and failure.\n\nRecommendation: Immediate inspection by a licensed plumber is recommended. Consider replacing the water heater to prevent further damage and potential water damage to surrounding areas.\n\nInspector Notes: The tank is approximately 15 years old, near end of life. Recommend immediate water heater replacement.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Water Staining and Potential Leak at Toilet Base**\nLocation: Bathroom\nSeverity: Moderate\n\nDescription: The photo reveals water staining and discoloration around the base of the toilet, suggesting a potential leak. The inspector's audio confirms this observation, noting that the wax seal may be failing or there could be a leak at the base connection. This issue poses a risk of subfloor damage if not addressed promptly.\n\nRecommendation: Inspect the toilet seal and wax ring for damage and replace if necessary. Ensure the toilet is properly secured to prevent future leaks. Recommend plumber inspection.\n\nInspector Notes: This moisture can lead to subfloor damage.\n\n--------------------------------------------------------------------------------\n",
       "issues": [
         {
-          "title": "Water Damage and Potential Mold Growth Under Kitchen Sink",
-          "description": "The under-sink cabinet in the kitchen shows signs of water damage, including warping and discoloration of the plywood base, as well as potential mold growth. The inspector noted that the particle board cabinet bottom is warped and discolored, indicating past water intrusion. Although the supply lines appear dry at the moment, the damage suggests there was a leak at some point.",
+          "title": "Water Damage Under Kitchen Sink",
+          "description": "The under-sink cabinet base shows significant water staining and potential mold growth, indicating a past or current leak from the plumbing above. The inspector noted that the particle board is warped and stained, suggesting past water intrusion. Although the supply lines appear dry currently, the damage indicates there was a leak. The homeowner should monitor this area closely to prevent further damage.",
           "category": "plumbing",
           "severity": "moderate",
-          "location": "Kitchen - Under Sink Cabinet",
+          "location": "Under-sink cabinet in the kitchen",
           "evidence": {
-            "from_photo": "Water damage and potential mold growth on the plywood base of the cabinet.",
-            "from_audio": "Inspector observed warping and discoloration of the cabinet bottom, indicating past water intrusion.",
+            "from_photo": "The cabinet base shows significant water staining and potential mold growth.",
+            "from_audio": "The inspector observed that the particle board is warped and stained, indicating past water intrusion.",
             "correlation_confidence": 0.9
           },
-          "recommendations": "Inspect and repair any leaks in the plumbing. Replace the damaged plywood to prevent mold growth and structural issues. Conduct a mold assessment and remediation if necessary.",
-          "inspector_notes": "Homeowner should monitor this area.",
+          "recommendations": "Inspect plumbing for leaks and repair as necessary. Replace or treat the damaged cabinet base to prevent mold growth.",
+          "inspector_notes": "The supply lines look dry currently, but this damage suggests there was a leak. Homeowner should monitor this area closely.",
           "photo_reference": "cabinet_water_damage.jpg",
-          "photo_timestamp": 145.0
+          "photo_timestamp": 160.0
+        },
+        {
+          "title": "Rust and Leakage on Water Heater",
+          "description": "The water heater in the utility room is showing significant rust and evidence of leakage at the bottom. The inspector noted that the unit is approximately 15 years old, which is near the end of its typical lifespan. The presence of moisture pooling at the base indicates active leaking, suggesting potential corrosion and failure.",
+          "category": "plumbing",
+          "severity": "major",
+          "location": "Utility Room",
+          "evidence": {
+            "from_photo": "The water heater shows significant rust and evidence of leakage at the bottom.",
+            "from_audio": "The inspector mentioned visible rust on the tank exterior and moisture pooling at the base, indicating active leaking.",
+            "correlation_confidence": 1.0
+          },
+          "recommendations": "Immediate inspection by a licensed plumber is recommended. Consider replacing the water heater to prevent further damage and potential water damage to surrounding areas.",
+          "inspector_notes": "The tank is approximately 15 years old, near end of life. Recommend immediate water heater replacement.",
+          "photo_reference": "water_heater_leak.jpg",
+          "photo_timestamp": 185.0
+        },
+        {
+          "title": "Water Staining and Potential Leak at Toilet Base",
+          "description": "The photo reveals water staining and discoloration around the base of the toilet, suggesting a potential leak. The inspector's audio confirms this observation, noting that the wax seal may be failing or there could be a leak at the base connection. This issue poses a risk of subfloor damage if not addressed promptly.",
+          "category": "plumbing",
+          "severity": "moderate",
+          "location": "Bathroom",
+          "evidence": {
+            "from_photo": "Visible water staining and discoloration around the base of the toilet.",
+            "from_audio": "Inspector noted water staining on the floor tiles around the toilet and suggested the wax seal may be failing or there's a leak at the base connection.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Inspect the toilet seal and wax ring for damage and replace if necessary. Ensure the toilet is properly secured to prevent future leaks. Recommend plumber inspection.",
+          "inspector_notes": "This moisture can lead to subfloor damage.",
+          "photo_reference": "toilet_base_leak.jpg",
+          "photo_timestamp": 210.0
         }
       ]
     },
     "roof": {
       "title": "Roof",
-      "issue_count": 1,
-      "content": "\u26a0\ufe0f **Damaged and Aging Shingles**\nLocation: Roof - North Side\nSeverity: Moderate\n\nDescription: The roof on the north side shows several asphalt shingles that are lifted and appear to be damaged, likely due to wind or improper installation. The inspector noted significant age-related wear on the south-facing slope, with curling, cracking, and granule loss, and recommended roof replacement within 2-3 years.\n\nRecommendation: Replace damaged shingles on the north side to prevent water infiltration and further roof damage. Consider roof replacement within 2-3 years due to overall age-related wear.\n\nInspector Notes: Inspector recommends roof replacement within 2-3 years due to significant age-related wear.\n\n--------------------------------------------------------------------------------\n",
+      "issue_count": 2,
+      "content": "\u26a0\ufe0f **Cracked and Missing Shingles on Roof**\nLocation: Roof - North Side\nSeverity: Major\n\nDescription: The asphalt shingles on the north side of the roof are visibly cracked and some are missing, exposing the underlayment. The inspector noted similar issues on the south-facing slope, including curling, cracking, and missing shingles with extensive granule loss, indicating severe age-related wear.\n\nRecommendation: Replace damaged and missing shingles to prevent water intrusion and further roof damage. Recommend roof replacement within one to two years.\n\nInspector Notes: This roof is showing severe age-related wear.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Chimney Flashing Installation**\nLocation: Roof - Chimney Area\nSeverity: Moderate\n\nDescription: The flashing around the chimney is improperly installed with visible gaps, which could lead to water intrusion. The inspector noted visible gaps where the metal flashing meets the brick chimney, indicating potential for water entry during rain. The sealant has deteriorated, necessitating re-flashing and proper sealing.\n\nRecommendation: Re-evaluate and properly seal the flashing to prevent water leaks.\n\nInspector Notes: Recommend re-flashing and proper sealing around the chimney.\n\n--------------------------------------------------------------------------------\n",
       "issues": [
         {
-          "title": "Damaged and Aging Shingles",
-          "description": "The roof on the north side shows several asphalt shingles that are lifted and appear to be damaged, likely due to wind or improper installation. The inspector noted significant age-related wear on the south-facing slope, with curling, cracking, and granule loss, and recommended roof replacement within 2-3 years.",
+          "title": "Cracked and Missing Shingles on Roof",
+          "description": "The asphalt shingles on the north side of the roof are visibly cracked and some are missing, exposing the underlayment. The inspector noted similar issues on the south-facing slope, including curling, cracking, and missing shingles with extensive granule loss, indicating severe age-related wear.",
           "category": "roof",
-          "severity": "moderate",
+          "severity": "major",
           "location": "Roof - North Side",
           "evidence": {
-            "from_photo": "Several asphalt shingles are lifted and appear to be damaged.",
-            "from_audio": "Inspector noted curling, cracking, granule loss, and missing shingles on the south-facing slope.",
-            "correlation_confidence": 0.6
+            "from_photo": "The asphalt shingles are visibly cracked and some are missing, exposing the underlayment.",
+            "from_audio": "On the south-facing slope, I can see significant shingle deterioration. Multiple asphalt shingles are curling, cracked, several appear to be missing entirely. Extensive granule loss visible.",
+            "correlation_confidence": 0.8
           },
-          "recommendations": "Replace damaged shingles on the north side to prevent water infiltration and further roof damage. Consider roof replacement within 2-3 years due to overall age-related wear.",
-          "inspector_notes": "Inspector recommends roof replacement within 2-3 years due to significant age-related wear.",
+          "recommendations": "Replace damaged and missing shingles to prevent water intrusion and further roof damage. Recommend roof replacement within one to two years.",
+          "inspector_notes": "This roof is showing severe age-related wear.",
           "photo_reference": "roof_shingle_damage.jpg",
-          "photo_timestamp": 200.0
+          "photo_timestamp": 235.0
+        },
+        {
+          "title": "Chimney Flashing Installation",
+          "description": "The flashing around the chimney is improperly installed with visible gaps, which could lead to water intrusion. The inspector noted visible gaps where the metal flashing meets the brick chimney, indicating potential for water entry during rain. The sealant has deteriorated, necessitating re-flashing and proper sealing.",
+          "category": "roof",
+          "severity": "moderate",
+          "location": "Roof - Chimney Area",
+          "evidence": {
+            "from_photo": "The flashing around the chimney appears to be improperly installed with visible gaps and potential for water intrusion.",
+            "from_audio": "The inspector mentioned visible gaps where the metal flashing meets the brick chimney, with deteriorated sealant.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Re-evaluate and properly seal the flashing to prevent water leaks.",
+          "inspector_notes": "Recommend re-flashing and proper sealing around the chimney.",
+          "photo_reference": "roof_flashing_gap.jpg",
+          "photo_timestamp": 260.0
         }
       ]
     },
     "structural": {
       "title": "Structural",
-      "issue_count": 1,
-      "content": "\u26a0\ufe0f **Vertical Crack in Basement Concrete Wall**\nLocation: Basement Wall, East Side\nSeverity: Moderate\n\nDescription: A vertical crack approximately 6 feet in length and 1/8 inch in width is visible in the concrete wall of the basement on the east side. This crack may indicate settling or structural stress, and there is some moisture staining around the crack. It is recommended to consult a structural engineer to assess the cause and recommend repairs. Monitoring the crack for any changes in size or shape is advised.\n\nRecommendation: Consult a structural engineer to assess the cause and recommend repairs. Monitor the crack for any changes in size or shape.\n\nInspector Notes: This needs monitoring and potential structural engineer consultation.\n\n--------------------------------------------------------------------------------\n",
+      "issue_count": 4,
+      "content": "\u26a0\ufe0f **Vertical Crack in Basement Concrete Wall**\nLocation: Basement, east wall\nSeverity: Moderate\n\nDescription: A vertical crack approximately one-eighth inch wide is visible in the concrete foundation wall on the east side of the basement. The crack runs about six feet up the wall and shows some moisture staining, indicating potential water intrusion. This crack may suggest settling or structural movement and requires monitoring for any changes in size or shape.\n\nRecommendation: Monitor the crack for any changes in size or shape. Consider consulting a structural engineer to assess the need for repairs.\n\nInspector Notes: This needs monitoring and structural engineer consultation.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Cracks in Wooden Beam and Sagging**\nLocation: Basement\nSeverity: Major\n\nDescription: The wooden beam in the basement shows visible cracks, indicating stress or age-related wear. The inspector noted that the main support beam is sagging noticeably in the center, affecting the floor joists above. This is a structural concern and a safety issue.\n\nRecommendation: Consult a structural engineer to assess the integrity of the beam and determine if reinforcement or replacement is necessary. Immediate evaluation is recommended due to the sagging.\n\nInspector Notes: The main support beam is sagging noticeably in the center, affecting the floor joists above.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Vertical Crack in Concrete Foundation**\nLocation: Basement, East Wall\nSeverity: Moderate\n\nDescription: On the east wall of the basement, there is a vertical crack in the concrete foundation, approximately one-eighth inch wide and running about six feet up the wall. Some moisture staining is visible around the crack, which needs monitoring and consultation with a structural engineer.\n\nRecommendation: Monitor the crack and consult a structural engineer for further evaluation.\n\nInspector Notes: Vertical crack approximately one-eighth inch wide, running about six feet up the wall with moisture staining.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Cracking and Deterioration in Concrete Driveway**\nLocation: Driveway\nSeverity: Moderate\n\nDescription: The concrete driveway exhibits significant cracking, some spalling, and surface deterioration. These issues may indicate settling or movement of the underlying soil and are typical wear for the age of the driveway. While not urgent, these should be monitored as they will worsen over time.\n\nRecommendation: Consult a professional to assess the extent of the damage and consider repair options such as patching or resurfacing. Monitor the condition to prevent further deterioration.\n\nInspector Notes: Not urgent but should be monitored.\n\n--------------------------------------------------------------------------------\n",
       "issues": [
         {
           "title": "Vertical Crack in Basement Concrete Wall",
-          "description": "A vertical crack approximately 6 feet in length and 1/8 inch in width is visible in the concrete wall of the basement on the east side. This crack may indicate settling or structural stress, and there is some moisture staining around the crack. It is recommended to consult a structural engineer to assess the cause and recommend repairs. Monitoring the crack for any changes in size or shape is advised.",
+          "description": "A vertical crack approximately one-eighth inch wide is visible in the concrete foundation wall on the east side of the basement. The crack runs about six feet up the wall and shows some moisture staining, indicating potential water intrusion. This crack may suggest settling or structural movement and requires monitoring for any changes in size or shape.",
           "category": "structural",
           "severity": "moderate",
-          "location": "Basement Wall, East Side",
+          "location": "Basement, east wall",
           "evidence": {
-            "from_photo": "A vertical crack is visible in the concrete wall, which may indicate settling or structural stress.",
-            "from_audio": "In the basement, I've found a vertical crack in the concrete foundation wall on the east side. The crack runs approximately 6 feet vertically and measures about 1/8 inch in width. Some moisture staining visible around the crack.",
-            "correlation_confidence": 0.95
+            "from_photo": "A vertical crack is visible in the concrete wall, which may indicate settling or structural movement.",
+            "from_audio": "On the east wall, there's a vertical crack in the concrete foundation, approximately one-eighth inch wide, running about six feet up the wall. Some moisture staining visible around the crack.",
+            "correlation_confidence": 0.9
           },
-          "recommendations": "Consult a structural engineer to assess the cause and recommend repairs. Monitor the crack for any changes in size or shape.",
-          "inspector_notes": "This needs monitoring and potential structural engineer consultation.",
+          "recommendations": "Monitor the crack for any changes in size or shape. Consider consulting a structural engineer to assess the need for repairs.",
+          "inspector_notes": "This needs monitoring and structural engineer consultation.",
           "photo_reference": "foundation_crack.jpg",
-          "photo_timestamp": 250.0
+          "photo_timestamp": 285.0
+        },
+        {
+          "title": "Cracks in Wooden Beam and Sagging",
+          "description": "The wooden beam in the basement shows visible cracks, indicating stress or age-related wear. The inspector noted that the main support beam is sagging noticeably in the center, affecting the floor joists above. This is a structural concern and a safety issue.",
+          "category": "structural",
+          "severity": "major",
+          "location": "Basement",
+          "evidence": {
+            "from_photo": "Visible cracks in the wooden beam.",
+            "from_audio": "Inspector noted the main support beam is sagging and affecting floor joists.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Consult a structural engineer to assess the integrity of the beam and determine if reinforcement or replacement is necessary. Immediate evaluation is recommended due to the sagging.",
+          "inspector_notes": "The main support beam is sagging noticeably in the center, affecting the floor joists above.",
+          "photo_reference": "basement_support_beam_sag.jpg",
+          "photo_timestamp": 310.0
+        },
+        {
+          "title": "Vertical Crack in Concrete Foundation",
+          "description": "On the east wall of the basement, there is a vertical crack in the concrete foundation, approximately one-eighth inch wide and running about six feet up the wall. Some moisture staining is visible around the crack, which needs monitoring and consultation with a structural engineer.",
+          "category": "structural",
+          "severity": "moderate",
+          "location": "Basement, East Wall",
+          "evidence": {
+            "from_photo": "Not visible in the provided photo.",
+            "from_audio": "Inspector noted a vertical crack in the concrete foundation with moisture staining.",
+            "correlation_confidence": 0.7
+          },
+          "recommendations": "Monitor the crack and consult a structural engineer for further evaluation.",
+          "inspector_notes": "Vertical crack approximately one-eighth inch wide, running about six feet up the wall with moisture staining.",
+          "photo_reference": "basement_support_beam_sag.jpg",
+          "photo_timestamp": 310.0
+        },
+        {
+          "title": "Cracking and Deterioration in Concrete Driveway",
+          "description": "The concrete driveway exhibits significant cracking, some spalling, and surface deterioration. These issues may indicate settling or movement of the underlying soil and are typical wear for the age of the driveway. While not urgent, these should be monitored as they will worsen over time.",
+          "category": "structural",
+          "severity": "moderate",
+          "location": "Driveway",
+          "evidence": {
+            "from_photo": "The concrete driveway exhibits significant cracking, which may indicate settling or movement of the underlying soil.",
+            "from_audio": "The concrete has multiple cracks running across it, some spalling and surface deterioration. This is typical wear for the age but will worsen over time.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Consult a professional to assess the extent of the damage and consider repair options such as patching or resurfacing. Monitor the condition to prevent further deterioration.",
+          "inspector_notes": "Not urgent but should be monitored.",
+          "photo_reference": "driveway_cracks.jpg",
+          "photo_timestamp": 460.0
+        }
+      ]
+    },
+    "safety": {
+      "title": "Safety",
+      "issue_count": 5,
+      "content": "\ud83d\udccb **Exposed Light Bulb**\nLocation: Basement\nSeverity: Minor\n\nDescription: The light bulb in the basement is exposed without a fixture, which can be a safety hazard. While the inspector did not mention this in the audio, the photo clearly shows the issue.\n\nRecommendation: Install a proper light fixture to protect the bulb and reduce the risk of breakage.\n\nInspector Notes: Not mentioned in the audio.\n\n--------------------------------------------------------------------------------\n\n\ud83d\udea8 **Potential Air Quality Concerns**\nLocation: Basement - Furnace Area\nSeverity: Safety Hazard\n\nDescription: The rust and potential internal damage of the furnace may affect air quality and efficiency. This poses a safety hazard due to possible leaks or emissions.\n\nRecommendation: Ensure proper ventilation and have the furnace inspected for any leaks or emissions.\n\nInspector Notes: While currently functional, this should be budgeted for replacement soon.\n\n--------------------------------------------------------------------------------\n\n\ud83d\udea8 **Loose and Wobbly Deck Railing**\nLocation: Deck - Railing\nSeverity: Safety Hazard\n\nDescription: The deck railing, although appearing in good condition in the photo, is reported by the inspector to be loose and wobbly. Movement is noted at the connection points between the rail and posts, posing a safety hazard given the deck's height of six feet off the ground.\n\nRecommendation: Recommend immediate repair for safety.\n\nInspector Notes: This is a safety hazard, especially with the deck being six feet off the ground.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Mold Growth on Roof Sheathing and Rafters**\nLocation: Attic\nSeverity: Major\n\nDescription: The attic exhibits significant mold growth on the roof sheathing and rafters, as confirmed by both visual inspection and audio narration. This mold presence is likely due to inadequate ventilation and past moisture intrusion, posing a health and safety concern.\n\nRecommendation: Investigate and address the source of moisture. Improve attic ventilation and consider professional mold remediation.\n\nInspector Notes: This is a health and safety concern. Recommend mold remediation and improved ventilation.\n\n--------------------------------------------------------------------------------\n\n\ud83d\udea8 **Mold Growth on Rafters and Roof Sheathing**\nLocation: Attic\nSeverity: Safety Hazard\n\nDescription: Dark staining on the rafters and roof sheathing indicates mold growth, likely due to inadequate ventilation and past moisture intrusion. This poses a health and safety concern.\n\nRecommendation: Recommend mold remediation and improved ventilation.\n\nInspector Notes: This is a health and safety concern.\n\n--------------------------------------------------------------------------------\n",
+      "issues": [
+        {
+          "title": "Exposed Light Bulb",
+          "description": "The light bulb in the basement is exposed without a fixture, which can be a safety hazard. While the inspector did not mention this in the audio, the photo clearly shows the issue.",
+          "category": "safety",
+          "severity": "minor",
+          "location": "Basement",
+          "evidence": {
+            "from_photo": "Exposed light bulb without a fixture.",
+            "from_audio": "Not mentioned in the audio.",
+            "correlation_confidence": 0.3
+          },
+          "recommendations": "Install a proper light fixture to protect the bulb and reduce the risk of breakage.",
+          "inspector_notes": "Not mentioned in the audio.",
+          "photo_reference": "basement_support_beam_sag.jpg",
+          "photo_timestamp": 310.0
+        },
+        {
+          "title": "Potential Air Quality Concerns",
+          "description": "The rust and potential internal damage of the furnace may affect air quality and efficiency. This poses a safety hazard due to possible leaks or emissions.",
+          "category": "safety",
+          "severity": "safety_hazard",
+          "location": "Basement - Furnace Area",
+          "evidence": {
+            "from_photo": "Rust and potential internal damage may affect air quality and efficiency.",
+            "from_audio": "The furnace in the basement shows significant rust and corrosion on the exterior casing.",
+            "correlation_confidence": 0.8
+          },
+          "recommendations": "Ensure proper ventilation and have the furnace inspected for any leaks or emissions.",
+          "inspector_notes": "While currently functional, this should be budgeted for replacement soon.",
+          "photo_reference": "hvac_rust.jpg",
+          "photo_timestamp": 335.0
+        },
+        {
+          "title": "Loose and Wobbly Deck Railing",
+          "description": "The deck railing, although appearing in good condition in the photo, is reported by the inspector to be loose and wobbly. Movement is noted at the connection points between the rail and posts, posing a safety hazard given the deck's height of six feet off the ground.",
+          "category": "safety",
+          "severity": "safety_hazard",
+          "location": "Deck - Railing",
+          "evidence": {
+            "from_photo": "The deck railing appears to be in good condition with no visible defects or damage.",
+            "from_audio": "The wooden deck railing is loose and wobbly. There's movement at the connection points between rail and posts. This is a safety hazard, especially with the deck being six feet off the ground.",
+            "correlation_confidence": 0.7
+          },
+          "recommendations": "Recommend immediate repair for safety.",
+          "inspector_notes": "This is a safety hazard, especially with the deck being six feet off the ground.",
+          "photo_reference": "deck_railing_loose.jpg",
+          "photo_timestamp": 435.0
+        },
+        {
+          "title": "Mold Growth on Roof Sheathing and Rafters",
+          "description": "The attic exhibits significant mold growth on the roof sheathing and rafters, as confirmed by both visual inspection and audio narration. This mold presence is likely due to inadequate ventilation and past moisture intrusion, posing a health and safety concern.",
+          "category": "safety",
+          "severity": "major",
+          "location": "Attic",
+          "evidence": {
+            "from_photo": "The roof sheathing shows significant mold growth, indicating moisture issues in the attic space.",
+            "from_audio": "Inspector noted dark staining on rafters and roof sheathing, identifying it as mold growth due to inadequate ventilation and past moisture intrusion.",
+            "correlation_confidence": 1.0
+          },
+          "recommendations": "Investigate and address the source of moisture. Improve attic ventilation and consider professional mold remediation.",
+          "inspector_notes": "This is a health and safety concern. Recommend mold remediation and improved ventilation.",
+          "photo_reference": "attic_mold.jpg",
+          "photo_timestamp": 485.0
+        },
+        {
+          "title": "Mold Growth on Rafters and Roof Sheathing",
+          "description": "Dark staining on the rafters and roof sheathing indicates mold growth, likely due to inadequate ventilation and past moisture intrusion. This poses a health and safety concern.",
+          "category": "safety",
+          "severity": "safety_hazard",
+          "location": "Attic",
+          "evidence": {
+            "from_photo": "Not visible in the provided photo analysis.",
+            "from_audio": "Dark staining on the rafters and roof sheathing - this appears to be mold growth.",
+            "correlation_confidence": 0.7
+          },
+          "recommendations": "Recommend mold remediation and improved ventilation.",
+          "inspector_notes": "This is a health and safety concern.",
+          "photo_reference": "insufficient_insulation.jpg",
+          "photo_timestamp": 510.0
         }
       ]
     },
     "hvac": {
       "title": "HVAC",
-      "issue_count": 1,
-      "content": "\u26a0\ufe0f **Severe Rust on Furnace**\nLocation: Utility Room - HVAC Area\nSeverity: Major\n\nDescription: The furnace in the utility room's HVAC area exhibits significant rust and corrosion on the exterior casing, particularly on the front panel. This rust indicates potential moisture issues and could compromise the structural integrity of the unit. The furnace is approximately 18 years old, which is nearing the end of its typical lifespan. While it is currently functional, the homeowner should budget for replacement in the near future.\n\nRecommendation: Immediate evaluation by a licensed HVAC technician is recommended to assess the extent of the damage and determine if repair or replacement is necessary. Homeowner should budget for replacement in the near future.\n\nInspector Notes: While currently functional, homeowner should budget for replacement in the near future.\n\n--------------------------------------------------------------------------------\n",
+      "issue_count": 3,
+      "content": "\u26a0\ufe0f **Rust and Corrosion on Furnace**\nLocation: Basement\nSeverity: Moderate\n\nDescription: The furnace in the basement shows significant rust and corrosion on the exterior casing. The unit is approximately 18 years old and while currently functional, it should be budgeted for replacement soon.\n\nRecommendation: Consider budgeting for replacement of the furnace due to its age and condition.\n\nInspector Notes: Furnace shows significant rust and corrosion, approximately 18 years old.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Severe Rust on Furnace**\nLocation: Basement - Furnace Area\nSeverity: Major\n\nDescription: The furnace in the basement shows extensive rust and corrosion on the exterior casing, indicating potential deterioration of the metal and possible internal damage. The unit is approximately 18 years old and, while currently functional, should be budgeted for replacement soon due to its poor condition.\n\nRecommendation: Have a licensed HVAC technician inspect the furnace for structural integrity and functionality. Consider replacement if necessary.\n\nInspector Notes: While currently functional, this should be budgeted for replacement soon.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Dirty and Damaged HVAC Condenser Coils**\nLocation: Exterior - HVAC Unit\nSeverity: Moderate\n\nDescription: The exterior HVAC unit's condenser coils are visibly dirty, which can reduce efficiency and lead to overheating. Additionally, the inspector noted that the cooling fins on the side are bent and damaged, likely from impact or debris, further reducing efficiency. This is not critical but should be addressed for optimal performance.\n\nRecommendation: Clean the condenser coils to improve efficiency and prevent potential overheating. Additionally, straighten the cooling fins for optimal performance.\n\nInspector Notes: The inspector noted that the damage to the cooling fins is a minor issue but should be addressed for better efficiency.\n\n--------------------------------------------------------------------------------\n",
       "issues": [
         {
+          "title": "Rust and Corrosion on Furnace",
+          "description": "The furnace in the basement shows significant rust and corrosion on the exterior casing. The unit is approximately 18 years old and while currently functional, it should be budgeted for replacement soon.",
+          "category": "hvac",
+          "severity": "moderate",
+          "location": "Basement",
+          "evidence": {
+            "from_photo": "Not visible in the provided photo.",
+            "from_audio": "Inspector noted significant rust and corrosion on the furnace.",
+            "correlation_confidence": 0.7
+          },
+          "recommendations": "Consider budgeting for replacement of the furnace due to its age and condition.",
+          "inspector_notes": "Furnace shows significant rust and corrosion, approximately 18 years old.",
+          "photo_reference": "basement_support_beam_sag.jpg",
+          "photo_timestamp": 310.0
+        },
+        {
           "title": "Severe Rust on Furnace",
-          "description": "The furnace in the utility room's HVAC area exhibits significant rust and corrosion on the exterior casing, particularly on the front panel. This rust indicates potential moisture issues and could compromise the structural integrity of the unit. The furnace is approximately 18 years old, which is nearing the end of its typical lifespan. While it is currently functional, the homeowner should budget for replacement in the near future.",
+          "description": "The furnace in the basement shows extensive rust and corrosion on the exterior casing, indicating potential deterioration of the metal and possible internal damage. The unit is approximately 18 years old and, while currently functional, should be budgeted for replacement soon due to its poor condition.",
           "category": "hvac",
           "severity": "major",
-          "location": "Utility Room - HVAC Area",
+          "location": "Basement - Furnace Area",
           "evidence": {
-            "from_photo": "The furnace casing shows significant rust and corrosion, particularly on the front panel.",
-            "from_audio": "The furnace in the basement shows rust and corrosion on the exterior casing. The unit is approximately 18 years old, nearing the end of its typical lifespan.",
+            "from_photo": "The furnace casing shows extensive rust, indicating potential deterioration of the metal and possible internal damage.",
+            "from_audio": "The furnace in the basement shows significant rust and corrosion on the exterior casing. Multiple rust spots, some surface deterioration. Unit is approximately 18 years old. While currently functional, this should be budgeted for replacement soon.",
+            "correlation_confidence": 1.0
+          },
+          "recommendations": "Have a licensed HVAC technician inspect the furnace for structural integrity and functionality. Consider replacement if necessary.",
+          "inspector_notes": "While currently functional, this should be budgeted for replacement soon.",
+          "photo_reference": "hvac_rust.jpg",
+          "photo_timestamp": 335.0
+        },
+        {
+          "title": "Dirty and Damaged HVAC Condenser Coils",
+          "description": "The exterior HVAC unit's condenser coils are visibly dirty, which can reduce efficiency and lead to overheating. Additionally, the inspector noted that the cooling fins on the side are bent and damaged, likely from impact or debris, further reducing efficiency. This is not critical but should be addressed for optimal performance.",
+          "category": "hvac",
+          "severity": "moderate",
+          "location": "Exterior - HVAC Unit",
+          "evidence": {
+            "from_photo": "The condenser coils are visibly dirty.",
+            "from_audio": "Inspector mentioned bent and damaged cooling fins on the side of the condenser unit.",
+            "correlation_confidence": 0.8
+          },
+          "recommendations": "Clean the condenser coils to improve efficiency and prevent potential overheating. Additionally, straighten the cooling fins for optimal performance.",
+          "inspector_notes": "The inspector noted that the damage to the cooling fins is a minor issue but should be addressed for better efficiency.",
+          "photo_reference": "ac_unit_damage.jpg",
+          "photo_timestamp": 360.0
+        }
+      ]
+    },
+    "exterior": {
+      "title": "Exterior",
+      "issue_count": 3,
+      "content": "\u26a0\ufe0f **Warped and Cracked Siding**\nLocation: West side of the house\nSeverity: Moderate\n\nDescription: The vinyl siding on the west side of the house is visibly warped and cracked, likely due to heat damage or improper installation. This compromises the weather protection of the home.\n\nRecommendation: Replace the damaged sections of siding to prevent moisture intrusion and further deterioration.\n\nInspector Notes: Recommend siding repair or replacement in this area.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Hole in Siding**\nLocation: West side of the house\nSeverity: Major\n\nDescription: There is a hole in the vinyl siding on the west side of the house, which can allow water and pests to enter, potentially causing damage to the underlying structure.\n\nRecommendation: Seal or replace the affected area immediately to prevent water damage and pest infestation.\n\nInspector Notes: This compromises weather protection.\n\n--------------------------------------------------------------------------------\n\n\u26a0\ufe0f **Gutter Damage and Separation**\nLocation: Roof - Front Gutter System\nSeverity: Moderate\n\nDescription: The gutter system at the front of the house shows signs of damage and separation from the fascia board. The photo reveals a bent or damaged section at the corner, which may affect water flow and drainage. The inspector noted that the gutter is separating from the fascia board, creating a visible gap and causing the gutter to sag. This condition prevents proper drainage and could lead to foundation issues if not addressed.\n\nRecommendation: Repair or replace the damaged section of the gutter and reattach it to the fascia board to ensure proper drainage and prevent water damage to the structure.\n\nInspector Notes: Recommend gutter reattachment to prevent foundation issues.\n\n--------------------------------------------------------------------------------\n",
+      "issues": [
+        {
+          "title": "Warped and Cracked Siding",
+          "description": "The vinyl siding on the west side of the house is visibly warped and cracked, likely due to heat damage or improper installation. This compromises the weather protection of the home.",
+          "category": "exterior",
+          "severity": "moderate",
+          "location": "West side of the house",
+          "evidence": {
+            "from_photo": "The vinyl siding is visibly warped and cracked.",
+            "from_audio": "Inspector mentioned visible cracks and warping on the west side of the house.",
             "correlation_confidence": 0.9
           },
-          "recommendations": "Immediate evaluation by a licensed HVAC technician is recommended to assess the extent of the damage and determine if repair or replacement is necessary. Homeowner should budget for replacement in the near future.",
-          "inspector_notes": "While currently functional, homeowner should budget for replacement in the near future.",
-          "photo_reference": "hvac_rust.jpg",
-          "photo_timestamp": 300.0
+          "recommendations": "Replace the damaged sections of siding to prevent moisture intrusion and further deterioration.",
+          "inspector_notes": "Recommend siding repair or replacement in this area.",
+          "photo_reference": "siding_damage.jpg",
+          "photo_timestamp": 385.0
+        },
+        {
+          "title": "Hole in Siding",
+          "description": "There is a hole in the vinyl siding on the west side of the house, which can allow water and pests to enter, potentially causing damage to the underlying structure.",
+          "category": "exterior",
+          "severity": "major",
+          "location": "West side of the house",
+          "evidence": {
+            "from_photo": "There is a hole in the siding.",
+            "from_audio": "Inspector noted one section is broken with a piece missing.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Seal or replace the affected area immediately to prevent water damage and pest infestation.",
+          "inspector_notes": "This compromises weather protection.",
+          "photo_reference": "siding_damage.jpg",
+          "photo_timestamp": 385.0
+        },
+        {
+          "title": "Gutter Damage and Separation",
+          "description": "The gutter system at the front of the house shows signs of damage and separation from the fascia board. The photo reveals a bent or damaged section at the corner, which may affect water flow and drainage. The inspector noted that the gutter is separating from the fascia board, creating a visible gap and causing the gutter to sag. This condition prevents proper drainage and could lead to foundation issues if not addressed.",
+          "category": "exterior",
+          "severity": "moderate",
+          "location": "Roof - Front Gutter System",
+          "evidence": {
+            "from_photo": "The gutter appears to be bent or damaged at the corner.",
+            "from_audio": "The rain gutter along the front of the house is separating from the fascia board - there's a visible gap and the gutter is sagging.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Repair or replace the damaged section of the gutter and reattach it to the fascia board to ensure proper drainage and prevent water damage to the structure.",
+          "inspector_notes": "Recommend gutter reattachment to prevent foundation issues.",
+          "photo_reference": "gutter_separation.jpg",
+          "photo_timestamp": 410.0
+        }
+      ]
+    },
+    "other": {
+      "title": "Other Observations",
+      "issue_count": 1,
+      "content": "\u26a0\ufe0f **Insulation Gaps and Inadequate Coverage**\nLocation: Attic\nSeverity: Moderate\n\nDescription: The attic insulation is inadequate, with visible gaps and thin, patchy batts between joists. This can lead to heat loss and reduced energy efficiency, increasing heating costs. The inspector noted that the insulation coverage is insufficient, aligning with the visual observation of gaps in the insulation.\n\nRecommendation: Add additional insulation to cover gaps and ensure even coverage to meet current standards.\n\nInspector Notes: This affects energy efficiency and heating costs.\n\n--------------------------------------------------------------------------------\n",
+      "issues": [
+        {
+          "title": "Insulation Gaps and Inadequate Coverage",
+          "description": "The attic insulation is inadequate, with visible gaps and thin, patchy batts between joists. This can lead to heat loss and reduced energy efficiency, increasing heating costs. The inspector noted that the insulation coverage is insufficient, aligning with the visual observation of gaps in the insulation.",
+          "category": "other",
+          "severity": "moderate",
+          "location": "Attic",
+          "evidence": {
+            "from_photo": "Visible gaps in the insulation, which may lead to heat loss and reduced energy efficiency.",
+            "from_audio": "The insulation coverage is inadequate - the batts are thin and patchy with significant gaps visible between joists.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Add additional insulation to cover gaps and ensure even coverage to meet current standards.",
+          "inspector_notes": "This affects energy efficiency and heating costs.",
+          "photo_reference": "insufficient_insulation.jpg",
+          "photo_timestamp": 510.0
         }
       ]
     }
   },
   "all_issues": [
     {
-      "title": "Water Stain on Master Bedroom Ceiling",
-      "description": "A large brown water stain is visible on the ceiling near the bathroom wall in the master bedroom. The stain measures approximately 12-14 inches across and feels slightly damp to the touch, indicating a potential active leak from the bathroom above. This suggests a possible plumbing issue, such as a leak from the shower pan or fixtures.",
+      "title": "Ceiling Water Stain in Master Bedroom",
+      "description": "A large, circular water stain is visible on the ceiling of the master bedroom, indicating a potential leak. The stain is brownish, approximately 12 inches across, and feels slightly damp, suggesting an active leak. This could be due to plumbing issues from the bathroom above or a roof penetration.",
       "category": "interior",
       "severity": "moderate",
-      "location": "Master Bedroom Ceiling near Bathroom Wall",
+      "location": "Master bedroom ceiling near the corner by the bathroom",
       "evidence": {
-        "from_photo": "A large brown water stain is visible around the light fixture on the ceiling.",
-        "from_audio": "The stain is brownish, appears to be about 12-14 inches across. It's slightly damp, suggesting an active leak from the bathroom above.",
-        "correlation_confidence": 0.9
+        "from_photo": "A large, circular water stain is present on the ceiling, indicating a possible leak from above.",
+        "from_audio": "Water staining on the ceiling near the corner by the bathroom. The stain is brownish, roughly 12 inches across, and feels slightly damp to the touch. This suggests an active leak, possibly from bathroom plumbing above or roof penetration.",
+        "correlation_confidence": 1.0
       },
-      "recommendations": "Investigate the source of the leak, which may be from plumbing or roof issues. Repair the leak and replace any damaged materials to prevent mold growth. Recommend plumber inspection of shower pan and fixtures.",
-      "inspector_notes": "Recommend plumber inspection of shower pan and fixtures.",
+      "recommendations": "Investigate the source of the leak, which could be from plumbing or roof issues. Repair the leak and replace or treat the stained ceiling material. Recommend immediate plumbing inspection.",
+      "inspector_notes": "The stain is brownish, roughly 12 inches across, and feels slightly damp to the touch. This suggests an active leak.",
       "photo_reference": "ceiling_water_stain.jpg",
       "photo_timestamp": 30.0
     },
     {
-      "title": "Non-Functioning GFCI Outlet",
-      "description": "The GFCI outlet located on the interior wall appears properly installed with no visible defects in the photo. However, the inspector noted that the GFCI outlet in the bedroom on the north wall does not trip when the test button is pressed, indicating a malfunction. This is identified as a safety hazard because GFCI outlets are essential for shock protection.",
-      "category": "electrical",
-      "severity": "safety_hazard",
-      "location": "Bedroom, north wall",
+      "title": "Condensation on Double-Pane Window",
+      "description": "The double-pane window in the living room exhibits visible condensation between the panes, indicating a seal failure. This is evident from the water droplets and fogging trapped between the glass layers, as observed in both the photo and the inspector's audio narration. While not an immediate emergency, this issue affects the energy efficiency of the home and should be addressed to prevent further moisture problems.",
+      "category": "interior",
+      "severity": "moderate",
+      "location": "Living room window",
       "evidence": {
-        "from_photo": "The GFCI outlet appears to be properly installed with no visible defects.",
-        "from_audio": "The inspector stated that the GFCI outlet is not tripping when tested, which is a safety hazard.",
-        "correlation_confidence": 0.8
+        "from_photo": "Visible condensation between the panes of the double-glazed window, indicating a possible seal failure.",
+        "from_audio": "This double-pane window in the living room has condensation trapped between the glass panes. You can see water droplets and fogging between the two layers. This indicates the seal has failed.",
+        "correlation_confidence": 1.0
       },
-      "recommendations": "Immediate replacement by a licensed electrician is recommended.",
-      "inspector_notes": "GFCI outlets are required for shock protection.",
-      "photo_reference": "gfci_outlet.jpg",
-      "photo_timestamp": 90.0
+      "recommendations": "Consider replacing the window or repairing the seal to improve energy efficiency and prevent further moisture issues.",
+      "inspector_notes": "Not an emergency but will affect energy efficiency. Recommend window replacement.",
+      "photo_reference": "window_condensation.jpg",
+      "photo_timestamp": 60.0
     },
     {
-      "title": "Water Damage and Potential Mold Growth Under Kitchen Sink",
-      "description": "The under-sink cabinet in the kitchen shows signs of water damage, including warping and discoloration of the plywood base, as well as potential mold growth. The inspector noted that the particle board cabinet bottom is warped and discolored, indicating past water intrusion. Although the supply lines appear dry at the moment, the damage suggests there was a leak at some point.",
-      "category": "plumbing",
-      "severity": "moderate",
-      "location": "Kitchen - Under Sink Cabinet",
+      "title": "Warped and Discolored Hardwood Flooring",
+      "description": "The hardwood flooring in the hallway shows significant warping and discoloration, indicating potential water damage. The inspector noted visible water damage with planks warping, buckling, and some boards lifting at the edges. Dark discoloration suggests prolonged moisture exposure, requiring immediate attention to identify and repair the moisture source.",
+      "category": "interior",
+      "severity": "major",
+      "location": "Hallway",
       "evidence": {
-        "from_photo": "Water damage and potential mold growth on the plywood base of the cabinet.",
-        "from_audio": "Inspector observed warping and discoloration of the cabinet bottom, indicating past water intrusion.",
+        "from_photo": "The hardwood flooring is visibly warped and discolored, indicating potential water damage.",
+        "from_audio": "Visible water damage to these hardwood floors - planks are warping and buckling, some boards lifting at the edges. Dark discoloration indicates prolonged moisture exposure.",
         "correlation_confidence": 0.9
       },
-      "recommendations": "Inspect and repair any leaks in the plumbing. Replace the damaged plywood to prevent mold growth and structural issues. Conduct a mold assessment and remediation if necessary.",
-      "inspector_notes": "Homeowner should monitor this area.",
-      "photo_reference": "cabinet_water_damage.jpg",
-      "photo_timestamp": 145.0
+      "recommendations": "Investigate and repair any sources of moisture. Replace damaged flooring and ensure proper sealing to prevent future issues.",
+      "inspector_notes": "This needs to be addressed and the moisture source identified.",
+      "photo_reference": "hardwood_floor_damage.jpg",
+      "photo_timestamp": 85.0
     },
     {
-      "title": "Damaged and Aging Shingles",
-      "description": "The roof on the north side shows several asphalt shingles that are lifted and appear to be damaged, likely due to wind or improper installation. The inspector noted significant age-related wear on the south-facing slope, with curling, cracking, and granule loss, and recommended roof replacement within 2-3 years.",
-      "category": "roof",
+      "title": "GFCI Outlet in Bedroom Not Functioning",
+      "description": "The GFCI outlet in the bedroom on the north wall is not tripping when the test button is pressed. This is a critical safety hazard as GFCI outlets are essential for shock protection.",
+      "category": "electrical",
+      "severity": "safety_hazard",
+      "location": "Bedroom - North Wall",
+      "evidence": {
+        "from_photo": "The GFCI outlet appears to be properly installed with no visible defects.",
+        "from_audio": "Testing electrical outlets. This GFCI outlet in the bedroom on the north wall - pressing the test button and it's not tripping. This is a safety hazard. GFCI outlets are critical for shock protection.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Immediate replacement by a licensed electrician.",
+      "inspector_notes": "This needs immediate replacement by a licensed electrician.",
+      "photo_reference": "gfci_outlet.jpg",
+      "photo_timestamp": 110.0
+    },
+    {
+      "title": "Corrosion on Electrical Panel",
+      "description": "The electrical panel located in the basement exhibits significant rust and corrosion, particularly around the bottom edges of the metal enclosure. This corrosion is concerning as it may compromise the integrity and safety of the panel. The panel is approximately 20 years old, and the rust staining on the door further indicates deterioration. Immediate evaluation by a licensed electrician is recommended to assess the extent of the damage and consider a potential panel upgrade.",
+      "category": "electrical",
+      "severity": "major",
+      "location": "Basement electrical panel",
+      "evidence": {
+        "from_photo": "The metal enclosure of the electrical panel shows significant rust and corrosion.",
+        "from_audio": "I can see rust and corrosion around the panel box, especially at the bottom edges. Some rust staining on the door. The panel is about 20 years old.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Consult a licensed electrician to assess the extent of the corrosion and replace or repair the panel as necessary.",
+      "inspector_notes": "This corrosion is concerning - recommend electrical evaluation and potential panel upgrade.",
+      "photo_reference": "electrical_panel_rust.jpg",
+      "photo_timestamp": 135.0
+    },
+    {
+      "title": "Water Damage Under Kitchen Sink",
+      "description": "The under-sink cabinet base shows significant water staining and potential mold growth, indicating a past or current leak from the plumbing above. The inspector noted that the particle board is warped and stained, suggesting past water intrusion. Although the supply lines appear dry currently, the damage indicates there was a leak. The homeowner should monitor this area closely to prevent further damage.",
+      "category": "plumbing",
       "severity": "moderate",
+      "location": "Under-sink cabinet in the kitchen",
+      "evidence": {
+        "from_photo": "The cabinet base shows significant water staining and potential mold growth.",
+        "from_audio": "The inspector observed that the particle board is warped and stained, indicating past water intrusion.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Inspect plumbing for leaks and repair as necessary. Replace or treat the damaged cabinet base to prevent mold growth.",
+      "inspector_notes": "The supply lines look dry currently, but this damage suggests there was a leak. Homeowner should monitor this area closely.",
+      "photo_reference": "cabinet_water_damage.jpg",
+      "photo_timestamp": 160.0
+    },
+    {
+      "title": "Rust and Leakage on Water Heater",
+      "description": "The water heater in the utility room is showing significant rust and evidence of leakage at the bottom. The inspector noted that the unit is approximately 15 years old, which is near the end of its typical lifespan. The presence of moisture pooling at the base indicates active leaking, suggesting potential corrosion and failure.",
+      "category": "plumbing",
+      "severity": "major",
+      "location": "Utility Room",
+      "evidence": {
+        "from_photo": "The water heater shows significant rust and evidence of leakage at the bottom.",
+        "from_audio": "The inspector mentioned visible rust on the tank exterior and moisture pooling at the base, indicating active leaking.",
+        "correlation_confidence": 1.0
+      },
+      "recommendations": "Immediate inspection by a licensed plumber is recommended. Consider replacing the water heater to prevent further damage and potential water damage to surrounding areas.",
+      "inspector_notes": "The tank is approximately 15 years old, near end of life. Recommend immediate water heater replacement.",
+      "photo_reference": "water_heater_leak.jpg",
+      "photo_timestamp": 185.0
+    },
+    {
+      "title": "Water Staining and Potential Leak at Toilet Base",
+      "description": "The photo reveals water staining and discoloration around the base of the toilet, suggesting a potential leak. The inspector's audio confirms this observation, noting that the wax seal may be failing or there could be a leak at the base connection. This issue poses a risk of subfloor damage if not addressed promptly.",
+      "category": "plumbing",
+      "severity": "moderate",
+      "location": "Bathroom",
+      "evidence": {
+        "from_photo": "Visible water staining and discoloration around the base of the toilet.",
+        "from_audio": "Inspector noted water staining on the floor tiles around the toilet and suggested the wax seal may be failing or there's a leak at the base connection.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Inspect the toilet seal and wax ring for damage and replace if necessary. Ensure the toilet is properly secured to prevent future leaks. Recommend plumber inspection.",
+      "inspector_notes": "This moisture can lead to subfloor damage.",
+      "photo_reference": "toilet_base_leak.jpg",
+      "photo_timestamp": 210.0
+    },
+    {
+      "title": "Cracked and Missing Shingles on Roof",
+      "description": "The asphalt shingles on the north side of the roof are visibly cracked and some are missing, exposing the underlayment. The inspector noted similar issues on the south-facing slope, including curling, cracking, and missing shingles with extensive granule loss, indicating severe age-related wear.",
+      "category": "roof",
+      "severity": "major",
       "location": "Roof - North Side",
       "evidence": {
-        "from_photo": "Several asphalt shingles are lifted and appear to be damaged.",
-        "from_audio": "Inspector noted curling, cracking, granule loss, and missing shingles on the south-facing slope.",
-        "correlation_confidence": 0.6
+        "from_photo": "The asphalt shingles are visibly cracked and some are missing, exposing the underlayment.",
+        "from_audio": "On the south-facing slope, I can see significant shingle deterioration. Multiple asphalt shingles are curling, cracked, several appear to be missing entirely. Extensive granule loss visible.",
+        "correlation_confidence": 0.8
       },
-      "recommendations": "Replace damaged shingles on the north side to prevent water infiltration and further roof damage. Consider roof replacement within 2-3 years due to overall age-related wear.",
-      "inspector_notes": "Inspector recommends roof replacement within 2-3 years due to significant age-related wear.",
+      "recommendations": "Replace damaged and missing shingles to prevent water intrusion and further roof damage. Recommend roof replacement within one to two years.",
+      "inspector_notes": "This roof is showing severe age-related wear.",
       "photo_reference": "roof_shingle_damage.jpg",
-      "photo_timestamp": 200.0
+      "photo_timestamp": 235.0
+    },
+    {
+      "title": "Chimney Flashing Installation",
+      "description": "The flashing around the chimney is improperly installed with visible gaps, which could lead to water intrusion. The inspector noted visible gaps where the metal flashing meets the brick chimney, indicating potential for water entry during rain. The sealant has deteriorated, necessitating re-flashing and proper sealing.",
+      "category": "roof",
+      "severity": "moderate",
+      "location": "Roof - Chimney Area",
+      "evidence": {
+        "from_photo": "The flashing around the chimney appears to be improperly installed with visible gaps and potential for water intrusion.",
+        "from_audio": "The inspector mentioned visible gaps where the metal flashing meets the brick chimney, with deteriorated sealant.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Re-evaluate and properly seal the flashing to prevent water leaks.",
+      "inspector_notes": "Recommend re-flashing and proper sealing around the chimney.",
+      "photo_reference": "roof_flashing_gap.jpg",
+      "photo_timestamp": 260.0
     },
     {
       "title": "Vertical Crack in Basement Concrete Wall",
-      "description": "A vertical crack approximately 6 feet in length and 1/8 inch in width is visible in the concrete wall of the basement on the east side. This crack may indicate settling or structural stress, and there is some moisture staining around the crack. It is recommended to consult a structural engineer to assess the cause and recommend repairs. Monitoring the crack for any changes in size or shape is advised.",
+      "description": "A vertical crack approximately one-eighth inch wide is visible in the concrete foundation wall on the east side of the basement. The crack runs about six feet up the wall and shows some moisture staining, indicating potential water intrusion. This crack may suggest settling or structural movement and requires monitoring for any changes in size or shape.",
       "category": "structural",
       "severity": "moderate",
-      "location": "Basement Wall, East Side",
+      "location": "Basement, east wall",
       "evidence": {
-        "from_photo": "A vertical crack is visible in the concrete wall, which may indicate settling or structural stress.",
-        "from_audio": "In the basement, I've found a vertical crack in the concrete foundation wall on the east side. The crack runs approximately 6 feet vertically and measures about 1/8 inch in width. Some moisture staining visible around the crack.",
-        "correlation_confidence": 0.95
+        "from_photo": "A vertical crack is visible in the concrete wall, which may indicate settling or structural movement.",
+        "from_audio": "On the east wall, there's a vertical crack in the concrete foundation, approximately one-eighth inch wide, running about six feet up the wall. Some moisture staining visible around the crack.",
+        "correlation_confidence": 0.9
       },
-      "recommendations": "Consult a structural engineer to assess the cause and recommend repairs. Monitor the crack for any changes in size or shape.",
-      "inspector_notes": "This needs monitoring and potential structural engineer consultation.",
+      "recommendations": "Monitor the crack for any changes in size or shape. Consider consulting a structural engineer to assess the need for repairs.",
+      "inspector_notes": "This needs monitoring and structural engineer consultation.",
       "photo_reference": "foundation_crack.jpg",
-      "photo_timestamp": 250.0
+      "photo_timestamp": 285.0
+    },
+    {
+      "title": "Cracks in Wooden Beam and Sagging",
+      "description": "The wooden beam in the basement shows visible cracks, indicating stress or age-related wear. The inspector noted that the main support beam is sagging noticeably in the center, affecting the floor joists above. This is a structural concern and a safety issue.",
+      "category": "structural",
+      "severity": "major",
+      "location": "Basement",
+      "evidence": {
+        "from_photo": "Visible cracks in the wooden beam.",
+        "from_audio": "Inspector noted the main support beam is sagging and affecting floor joists.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Consult a structural engineer to assess the integrity of the beam and determine if reinforcement or replacement is necessary. Immediate evaluation is recommended due to the sagging.",
+      "inspector_notes": "The main support beam is sagging noticeably in the center, affecting the floor joists above.",
+      "photo_reference": "basement_support_beam_sag.jpg",
+      "photo_timestamp": 310.0
+    },
+    {
+      "title": "Exposed Light Bulb",
+      "description": "The light bulb in the basement is exposed without a fixture, which can be a safety hazard. While the inspector did not mention this in the audio, the photo clearly shows the issue.",
+      "category": "safety",
+      "severity": "minor",
+      "location": "Basement",
+      "evidence": {
+        "from_photo": "Exposed light bulb without a fixture.",
+        "from_audio": "Not mentioned in the audio.",
+        "correlation_confidence": 0.3
+      },
+      "recommendations": "Install a proper light fixture to protect the bulb and reduce the risk of breakage.",
+      "inspector_notes": "Not mentioned in the audio.",
+      "photo_reference": "basement_support_beam_sag.jpg",
+      "photo_timestamp": 310.0
+    },
+    {
+      "title": "Vertical Crack in Concrete Foundation",
+      "description": "On the east wall of the basement, there is a vertical crack in the concrete foundation, approximately one-eighth inch wide and running about six feet up the wall. Some moisture staining is visible around the crack, which needs monitoring and consultation with a structural engineer.",
+      "category": "structural",
+      "severity": "moderate",
+      "location": "Basement, East Wall",
+      "evidence": {
+        "from_photo": "Not visible in the provided photo.",
+        "from_audio": "Inspector noted a vertical crack in the concrete foundation with moisture staining.",
+        "correlation_confidence": 0.7
+      },
+      "recommendations": "Monitor the crack and consult a structural engineer for further evaluation.",
+      "inspector_notes": "Vertical crack approximately one-eighth inch wide, running about six feet up the wall with moisture staining.",
+      "photo_reference": "basement_support_beam_sag.jpg",
+      "photo_timestamp": 310.0
+    },
+    {
+      "title": "Rust and Corrosion on Furnace",
+      "description": "The furnace in the basement shows significant rust and corrosion on the exterior casing. The unit is approximately 18 years old and while currently functional, it should be budgeted for replacement soon.",
+      "category": "hvac",
+      "severity": "moderate",
+      "location": "Basement",
+      "evidence": {
+        "from_photo": "Not visible in the provided photo.",
+        "from_audio": "Inspector noted significant rust and corrosion on the furnace.",
+        "correlation_confidence": 0.7
+      },
+      "recommendations": "Consider budgeting for replacement of the furnace due to its age and condition.",
+      "inspector_notes": "Furnace shows significant rust and corrosion, approximately 18 years old.",
+      "photo_reference": "basement_support_beam_sag.jpg",
+      "photo_timestamp": 310.0
     },
     {
       "title": "Severe Rust on Furnace",
-      "description": "The furnace in the utility room's HVAC area exhibits significant rust and corrosion on the exterior casing, particularly on the front panel. This rust indicates potential moisture issues and could compromise the structural integrity of the unit. The furnace is approximately 18 years old, which is nearing the end of its typical lifespan. While it is currently functional, the homeowner should budget for replacement in the near future.",
+      "description": "The furnace in the basement shows extensive rust and corrosion on the exterior casing, indicating potential deterioration of the metal and possible internal damage. The unit is approximately 18 years old and, while currently functional, should be budgeted for replacement soon due to its poor condition.",
       "category": "hvac",
       "severity": "major",
-      "location": "Utility Room - HVAC Area",
+      "location": "Basement - Furnace Area",
       "evidence": {
-        "from_photo": "The furnace casing shows significant rust and corrosion, particularly on the front panel.",
-        "from_audio": "The furnace in the basement shows rust and corrosion on the exterior casing. The unit is approximately 18 years old, nearing the end of its typical lifespan.",
+        "from_photo": "The furnace casing shows extensive rust, indicating potential deterioration of the metal and possible internal damage.",
+        "from_audio": "The furnace in the basement shows significant rust and corrosion on the exterior casing. Multiple rust spots, some surface deterioration. Unit is approximately 18 years old. While currently functional, this should be budgeted for replacement soon.",
+        "correlation_confidence": 1.0
+      },
+      "recommendations": "Have a licensed HVAC technician inspect the furnace for structural integrity and functionality. Consider replacement if necessary.",
+      "inspector_notes": "While currently functional, this should be budgeted for replacement soon.",
+      "photo_reference": "hvac_rust.jpg",
+      "photo_timestamp": 335.0
+    },
+    {
+      "title": "Potential Air Quality Concerns",
+      "description": "The rust and potential internal damage of the furnace may affect air quality and efficiency. This poses a safety hazard due to possible leaks or emissions.",
+      "category": "safety",
+      "severity": "safety_hazard",
+      "location": "Basement - Furnace Area",
+      "evidence": {
+        "from_photo": "Rust and potential internal damage may affect air quality and efficiency.",
+        "from_audio": "The furnace in the basement shows significant rust and corrosion on the exterior casing.",
+        "correlation_confidence": 0.8
+      },
+      "recommendations": "Ensure proper ventilation and have the furnace inspected for any leaks or emissions.",
+      "inspector_notes": "While currently functional, this should be budgeted for replacement soon.",
+      "photo_reference": "hvac_rust.jpg",
+      "photo_timestamp": 335.0
+    },
+    {
+      "title": "Dirty and Damaged HVAC Condenser Coils",
+      "description": "The exterior HVAC unit's condenser coils are visibly dirty, which can reduce efficiency and lead to overheating. Additionally, the inspector noted that the cooling fins on the side are bent and damaged, likely from impact or debris, further reducing efficiency. This is not critical but should be addressed for optimal performance.",
+      "category": "hvac",
+      "severity": "moderate",
+      "location": "Exterior - HVAC Unit",
+      "evidence": {
+        "from_photo": "The condenser coils are visibly dirty.",
+        "from_audio": "Inspector mentioned bent and damaged cooling fins on the side of the condenser unit.",
+        "correlation_confidence": 0.8
+      },
+      "recommendations": "Clean the condenser coils to improve efficiency and prevent potential overheating. Additionally, straighten the cooling fins for optimal performance.",
+      "inspector_notes": "The inspector noted that the damage to the cooling fins is a minor issue but should be addressed for better efficiency.",
+      "photo_reference": "ac_unit_damage.jpg",
+      "photo_timestamp": 360.0
+    },
+    {
+      "title": "Warped and Cracked Siding",
+      "description": "The vinyl siding on the west side of the house is visibly warped and cracked, likely due to heat damage or improper installation. This compromises the weather protection of the home.",
+      "category": "exterior",
+      "severity": "moderate",
+      "location": "West side of the house",
+      "evidence": {
+        "from_photo": "The vinyl siding is visibly warped and cracked.",
+        "from_audio": "Inspector mentioned visible cracks and warping on the west side of the house.",
         "correlation_confidence": 0.9
       },
-      "recommendations": "Immediate evaluation by a licensed HVAC technician is recommended to assess the extent of the damage and determine if repair or replacement is necessary. Homeowner should budget for replacement in the near future.",
-      "inspector_notes": "While currently functional, homeowner should budget for replacement in the near future.",
-      "photo_reference": "hvac_rust.jpg",
-      "photo_timestamp": 300.0
+      "recommendations": "Replace the damaged sections of siding to prevent moisture intrusion and further deterioration.",
+      "inspector_notes": "Recommend siding repair or replacement in this area.",
+      "photo_reference": "siding_damage.jpg",
+      "photo_timestamp": 385.0
+    },
+    {
+      "title": "Hole in Siding",
+      "description": "There is a hole in the vinyl siding on the west side of the house, which can allow water and pests to enter, potentially causing damage to the underlying structure.",
+      "category": "exterior",
+      "severity": "major",
+      "location": "West side of the house",
+      "evidence": {
+        "from_photo": "There is a hole in the siding.",
+        "from_audio": "Inspector noted one section is broken with a piece missing.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Seal or replace the affected area immediately to prevent water damage and pest infestation.",
+      "inspector_notes": "This compromises weather protection.",
+      "photo_reference": "siding_damage.jpg",
+      "photo_timestamp": 385.0
+    },
+    {
+      "title": "Gutter Damage and Separation",
+      "description": "The gutter system at the front of the house shows signs of damage and separation from the fascia board. The photo reveals a bent or damaged section at the corner, which may affect water flow and drainage. The inspector noted that the gutter is separating from the fascia board, creating a visible gap and causing the gutter to sag. This condition prevents proper drainage and could lead to foundation issues if not addressed.",
+      "category": "exterior",
+      "severity": "moderate",
+      "location": "Roof - Front Gutter System",
+      "evidence": {
+        "from_photo": "The gutter appears to be bent or damaged at the corner.",
+        "from_audio": "The rain gutter along the front of the house is separating from the fascia board - there's a visible gap and the gutter is sagging.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Repair or replace the damaged section of the gutter and reattach it to the fascia board to ensure proper drainage and prevent water damage to the structure.",
+      "inspector_notes": "Recommend gutter reattachment to prevent foundation issues.",
+      "photo_reference": "gutter_separation.jpg",
+      "photo_timestamp": 410.0
+    },
+    {
+      "title": "Loose and Wobbly Deck Railing",
+      "description": "The deck railing, although appearing in good condition in the photo, is reported by the inspector to be loose and wobbly. Movement is noted at the connection points between the rail and posts, posing a safety hazard given the deck's height of six feet off the ground.",
+      "category": "safety",
+      "severity": "safety_hazard",
+      "location": "Deck - Railing",
+      "evidence": {
+        "from_photo": "The deck railing appears to be in good condition with no visible defects or damage.",
+        "from_audio": "The wooden deck railing is loose and wobbly. There's movement at the connection points between rail and posts. This is a safety hazard, especially with the deck being six feet off the ground.",
+        "correlation_confidence": 0.7
+      },
+      "recommendations": "Recommend immediate repair for safety.",
+      "inspector_notes": "This is a safety hazard, especially with the deck being six feet off the ground.",
+      "photo_reference": "deck_railing_loose.jpg",
+      "photo_timestamp": 435.0
+    },
+    {
+      "title": "Cracking and Deterioration in Concrete Driveway",
+      "description": "The concrete driveway exhibits significant cracking, some spalling, and surface deterioration. These issues may indicate settling or movement of the underlying soil and are typical wear for the age of the driveway. While not urgent, these should be monitored as they will worsen over time.",
+      "category": "structural",
+      "severity": "moderate",
+      "location": "Driveway",
+      "evidence": {
+        "from_photo": "The concrete driveway exhibits significant cracking, which may indicate settling or movement of the underlying soil.",
+        "from_audio": "The concrete has multiple cracks running across it, some spalling and surface deterioration. This is typical wear for the age but will worsen over time.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Consult a professional to assess the extent of the damage and consider repair options such as patching or resurfacing. Monitor the condition to prevent further deterioration.",
+      "inspector_notes": "Not urgent but should be monitored.",
+      "photo_reference": "driveway_cracks.jpg",
+      "photo_timestamp": 460.0
+    },
+    {
+      "title": "Mold Growth on Roof Sheathing and Rafters",
+      "description": "The attic exhibits significant mold growth on the roof sheathing and rafters, as confirmed by both visual inspection and audio narration. This mold presence is likely due to inadequate ventilation and past moisture intrusion, posing a health and safety concern.",
+      "category": "safety",
+      "severity": "major",
+      "location": "Attic",
+      "evidence": {
+        "from_photo": "The roof sheathing shows significant mold growth, indicating moisture issues in the attic space.",
+        "from_audio": "Inspector noted dark staining on rafters and roof sheathing, identifying it as mold growth due to inadequate ventilation and past moisture intrusion.",
+        "correlation_confidence": 1.0
+      },
+      "recommendations": "Investigate and address the source of moisture. Improve attic ventilation and consider professional mold remediation.",
+      "inspector_notes": "This is a health and safety concern. Recommend mold remediation and improved ventilation.",
+      "photo_reference": "attic_mold.jpg",
+      "photo_timestamp": 485.0
+    },
+    {
+      "title": "Inadequate Attic Insulation",
+      "description": "The attic insulation is insufficient, with thin and patchy batts and significant gaps between joists. This inadequacy affects energy efficiency and heating costs.",
+      "category": "interior",
+      "severity": "moderate",
+      "location": "Attic",
+      "evidence": {
+        "from_photo": "Not visible in the provided photo.",
+        "from_audio": "Inspector observed inadequate insulation coverage, noting thin and patchy batts with gaps between joists.",
+        "correlation_confidence": 0.8
+      },
+      "recommendations": "Add insulation to meet current standards for improved energy efficiency.",
+      "inspector_notes": "Recommend adding insulation to meet current standards.",
+      "photo_reference": "attic_mold.jpg",
+      "photo_timestamp": 485.0
+    },
+    {
+      "title": "Insulation Gaps and Inadequate Coverage",
+      "description": "The attic insulation is inadequate, with visible gaps and thin, patchy batts between joists. This can lead to heat loss and reduced energy efficiency, increasing heating costs. The inspector noted that the insulation coverage is insufficient, aligning with the visual observation of gaps in the insulation.",
+      "category": "other",
+      "severity": "moderate",
+      "location": "Attic",
+      "evidence": {
+        "from_photo": "Visible gaps in the insulation, which may lead to heat loss and reduced energy efficiency.",
+        "from_audio": "The insulation coverage is inadequate - the batts are thin and patchy with significant gaps visible between joists.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Add additional insulation to cover gaps and ensure even coverage to meet current standards.",
+      "inspector_notes": "This affects energy efficiency and heating costs.",
+      "photo_reference": "insufficient_insulation.jpg",
+      "photo_timestamp": 510.0
+    },
+    {
+      "title": "Mold Growth on Rafters and Roof Sheathing",
+      "description": "Dark staining on the rafters and roof sheathing indicates mold growth, likely due to inadequate ventilation and past moisture intrusion. This poses a health and safety concern.",
+      "category": "safety",
+      "severity": "safety_hazard",
+      "location": "Attic",
+      "evidence": {
+        "from_photo": "Not visible in the provided photo analysis.",
+        "from_audio": "Dark staining on the rafters and roof sheathing - this appears to be mold growth.",
+        "correlation_confidence": 0.7
+      },
+      "recommendations": "Recommend mold remediation and improved ventilation.",
+      "inspector_notes": "This is a health and safety concern.",
+      "photo_reference": "insufficient_insulation.jpg",
+      "photo_timestamp": 510.0
     }
   ]
 }

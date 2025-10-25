@@ -1,0 +1,26 @@
+{
+  "photo_path": "sample_data/iphone_photos/ac_unit_damage.jpg",
+  "photo_timestamp": 360.0,
+  "analysis": {
+    "location": "Exterior - HVAC Unit",
+    "visible_elements": [
+      "HVAC unit",
+      "condenser coils",
+      "fan",
+      "concrete pad"
+    ],
+    "issues_detected": [
+      {
+        "title": "Dirty Condenser Coils",
+        "description": "The condenser coils are visibly dirty, which can reduce the efficiency of the HVAC unit and lead to overheating.",
+        "category": "hvac",
+        "severity": "moderate",
+        "recommendation": "Clean the condenser coils to improve efficiency and prevent potential overheating."
+      }
+    ],
+    "overall_assessment": "The HVAC unit appears to be in generally good condition but requires maintenance to clean the condenser coils.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1207
+}

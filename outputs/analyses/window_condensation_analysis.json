@@ -1,0 +1,24 @@
+{
+  "photo_path": "sample_data/iphone_photos/window_condensation.jpg",
+  "photo_timestamp": 60.0,
+  "analysis": {
+    "location": "Interior - Window",
+    "visible_elements": [
+      "window",
+      "window frame"
+    ],
+    "issues_detected": [
+      {
+        "title": "Condensation on Window",
+        "description": "Visible condensation between the panes of the double-glazed window, indicating a possible seal failure.",
+        "category": "interior",
+        "severity": "moderate",
+        "recommendation": "Consider replacing the window or repairing the seal to improve energy efficiency and prevent further moisture issues."
+      }
+    ],
+    "overall_assessment": "The window shows signs of condensation, suggesting a seal failure that should be addressed to maintain energy efficiency and prevent potential moisture damage.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1202
+}

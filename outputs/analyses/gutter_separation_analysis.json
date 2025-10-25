@@ -1,0 +1,26 @@
+{
+  "photo_path": "sample_data/iphone_photos/gutter_separation.jpg",
+  "photo_timestamp": 410.0,
+  "analysis": {
+    "location": "Roof - Gutter System",
+    "visible_elements": [
+      "gutter",
+      "fascia",
+      "soffit",
+      "siding"
+    ],
+    "issues_detected": [
+      {
+        "title": "Gutter Damage",
+        "description": "The gutter appears to be bent or damaged at the corner, which may affect water flow and drainage.",
+        "category": "exterior",
+        "severity": "moderate",
+        "recommendation": "Repair or replace the damaged section of the gutter to ensure proper drainage and prevent water damage to the structure."
+      }
+    ],
+    "overall_assessment": "The gutter system shows signs of damage that could lead to drainage issues if not addressed.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1210
+}

@@ -1,0 +1,33 @@
+{
+  "photo_path": "sample_data/iphone_photos/basement_support_beam_sag.jpg",
+  "photo_timestamp": 310.0,
+  "analysis": {
+    "location": "Basement",
+    "visible_elements": [
+      "wooden beam",
+      "joists",
+      "concrete wall",
+      "light bulb"
+    ],
+    "issues_detected": [
+      {
+        "title": "Cracks in Wooden Beam",
+        "description": "The wooden beam shows visible cracks, which could indicate stress or age-related wear.",
+        "category": "structural",
+        "severity": "moderate",
+        "recommendation": "Consult a structural engineer to assess the integrity of the beam and determine if reinforcement or replacement is necessary."
+      },
+      {
+        "title": "Exposed Light Bulb",
+        "description": "The light bulb is exposed without a fixture, which can be a safety hazard.",
+        "category": "safety",
+        "severity": "minor",
+        "recommendation": "Install a proper light fixture to protect the bulb and reduce the risk of breakage."
+      }
+    ],
+    "overall_assessment": "The basement shows signs of structural wear in the wooden beam and a minor safety concern with the exposed light bulb.",
+    "confidence": 0.9
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1284
+}

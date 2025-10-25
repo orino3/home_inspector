@@ -1,0 +1,22 @@
+{
+  "ceiling_water_stain.jpg": 30.0,
+  "window_condensation.jpg": 60.0,
+  "hardwood_floor_damage.jpg": 85.0,
+  "gfci_outlet.jpg": 110.0,
+  "electrical_panel_rust.jpg": 135.0,
+  "cabinet_water_damage.jpg": 160.0,
+  "water_heater_leak.jpg": 185.0,
+  "toilet_base_leak.jpg": 210.0,
+  "roof_shingle_damage.jpg": 235.0,
+  "roof_flashing_gap.jpg": 260.0,
+  "foundation_crack.jpg": 285.0,
+  "basement_support_beam_sag.jpg": 310.0,
+  "hvac_rust.jpg": 335.0,
+  "ac_unit_damage.jpg": 360.0,
+  "siding_damage.jpg": 385.0,
+  "gutter_separation.jpg": 410.0,
+  "deck_railing_loose.jpg": 435.0,
+  "driveway_cracks.jpg": 460.0,
+  "attic_mold.jpg": 485.0,
+  "insufficient_insulation.jpg": 510.0
+}

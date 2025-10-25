@@ -1,0 +1,24 @@
+{
+  "photo_path": "sample_data/iphone_photos/toilet_base_leak.jpg",
+  "photo_timestamp": 210.0,
+  "analysis": {
+    "location": "Bathroom",
+    "visible_elements": [
+      "toilet",
+      "floor tiles"
+    ],
+    "issues_detected": [
+      {
+        "title": "Water Staining Around Toilet Base",
+        "description": "There is visible water staining and discoloration around the base of the toilet, indicating a possible leak from the toilet seal.",
+        "category": "plumbing",
+        "severity": "moderate",
+        "recommendation": "Inspect the toilet seal and wax ring for damage and replace if necessary. Ensure the toilet is properly secured to prevent future leaks."
+      }
+    ],
+    "overall_assessment": "Moderate plumbing issue detected with potential for water damage if not addressed.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1205
+}

@@ -1,0 +1,25 @@
+{
+  "photo_path": "sample_data/iphone_photos/insufficient_insulation.jpg",
+  "photo_timestamp": 510.0,
+  "analysis": {
+    "location": "Attic",
+    "visible_elements": [
+      "insulation",
+      "rafters",
+      "ventilation vents"
+    ],
+    "issues_detected": [
+      {
+        "title": "Insulation Gaps",
+        "description": "There are visible gaps in the insulation, which may lead to heat loss and reduced energy efficiency.",
+        "category": "insulation",
+        "severity": "moderate",
+        "recommendation": "Add additional insulation to cover gaps and ensure even coverage."
+      }
+    ],
+    "overall_assessment": "The attic is generally in good condition but requires additional insulation to improve energy efficiency.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1192
+}

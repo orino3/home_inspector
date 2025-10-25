@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "ceiling_water_stain.jpg",
+    "timestamp": 30.0,
+    "issue_type": "interior",
+    "category": "Water Damage",
+    "severity": "moderate",
+    "prompt_used": "Photo taken with iPhone 16 showing a residential bedroom ceiling with a brown water stain.\nThe stain is approximately 12 inches in diameter, brownish-yellow color showing moisture damage.\nWhite painted drywall ceiling. Shot from below looking up at an angle, typical smartphone perspective.\nNatural indoor lighting, good dynamic range, sharp iPhone camera quality. Casual hand-held angle.\nNo people in frame. Realistic iPhone 16 photo characteristics."
+  },
+  {
+    "filename": "window_condensation.jpg",
+    "timestamp": 60.0,
+    "issue_type": "interior",
+    "category": "Window Issues",
+    "severity": "minor",
+    "prompt_used": "iPhone 16 photo of a double-pane window with condensation between the glass panes.\nWater droplets and fog visible between the two panes indicating seal failure.\nResidential interior window, white frame. Natural daylight coming through the window.\nShot straight-on from inside the room. Sharp iPhone detail, good color accuracy.\nTypical smartphone casual photography style. No people visible."
+  },
+  {
+    "filename": "hardwood_floor_damage.jpg",
+    "timestamp": 85.0,
+    "issue_type": "interior",
+    "category": "Flooring",
+    "severity": "moderate",
+    "prompt_used": "iPhone 16 photo of hardwood flooring with water damage and buckling.\nMedium brown hardwood planks with visible warping and discoloration from moisture.\nFloor boards are uneven and lifting at the edges. Natural indoor lighting.\nShot at a slight downward angle typical of phone camera. Good depth and detail.\nRealistic iPhone color balance and sharpness. No people in the shot."
+  },
+  {
+    "filename": "gfci_outlet.jpg",
+    "timestamp": 110.0,
+    "issue_type": "electrical",
+    "category": "Outlets",
+    "severity": "safety_hazard",
+    "prompt_used": "Close-up iPhone 16 photo of a beige GFCI electrical outlet on a white wall.\nTest and reset buttons clearly visible. Standard residential outlet in bedroom.\nShot close-up with good focus, typical iPhone macro capability. Well-lit, sharp details.\nSlight angle from below, casual hand-held perspective. Natural indoor lighting.\nClean iPhone 16 image quality. No people in frame."
+  },
+  {
+    "filename": "electrical_panel_rust.jpg",
+    "timestamp": 135.0,
+    "issue_type": "electrical",
+    "category": "Electrical Panel",
+    "severity": "major",
+    "prompt_used": "iPhone 16 photo of an electrical service panel showing rust and corrosion.\nGray metal panel box with visible rust stains around edges and bottom.\nCircuit breakers visible inside. Basement or utility room setting with overhead lighting.\nShot straight-on from about 3 feet away. Good iPhone dynamic range showing detail.\nTypical smartphone perspective and color accuracy. No people visible."
+  },
+  {
+    "filename": "cabinet_water_damage.jpg",
+    "timestamp": 160.0,
+    "issue_type": "plumbing",
+    "category": "Cabinets",
+    "severity": "minor",
+    "prompt_used": "iPhone 16 photo looking inside kitchen sink cabinet showing water damage.\nParticle board cabinet bottom with visible warping and dark water stains.\nWhite PVC plumbing pipes visible. Shot from above looking down into the cabinet.\nNatural kitchen lighting, good iPhone HDR showing detail in shadows.\nRealistic smartphone wide-angle perspective. No people in the image."
+  },
+  {
+    "filename": "water_heater_leak.jpg",
+    "timestamp": 185.0,
+    "issue_type": "plumbing",
+    "category": "Water Heater",
+    "severity": "major",
+    "prompt_used": "iPhone 16 photo of a residential water heater with visible leak and corrosion.\nWhite cylindrical water heater with rust stains and water pooling at the base.\nConcrete floor visible, utility room or basement setting. Overhead lighting.\nShot from standing height looking slightly down, typical casual phone angle.\nGood detail and color with iPhone camera quality. No people in frame."
+  },
+  {
+    "filename": "toilet_base_leak.jpg",
+    "timestamp": 210.0,
+    "issue_type": "plumbing",
+    "category": "Bathroom",
+    "severity": "moderate",
+    "prompt_used": "iPhone 16 photo showing water staining around the base of a toilet.\nWhite porcelain toilet with visible water damage on floor tiles around the base.\nBathroom setting with natural and overhead lighting mixed. Tile floor.\nShot from slightly above looking down at an angle, typical smartphone perspective.\nSharp iPhone detail showing the stains clearly. No people visible."
+  },
+  {
+    "filename": "roof_shingle_damage.jpg",
+    "timestamp": 235.0,
+    "issue_type": "roof",
+    "category": "Shingles",
+    "severity": "major",
+    "prompt_used": "iPhone 16 photo of damaged asphalt roof shingles taken from roof level.\nMultiple shingles are curling, cracked, and some are missing. Gray/black asphalt shingles.\nBright daylight, good dynamic range showing texture and damage detail.\nSlightly wide angle typical of iPhone camera. Hand-held casual perspective.\nClear blue sky partially visible. Sharp focus on damaged shingles. No people."
+  },
+  {
+    "filename": "roof_flashing_gap.jpg",
+    "timestamp": 260.0,
+    "issue_type": "roof",
+    "category": "Flashing",
+    "severity": "moderate",
+    "prompt_used": "iPhone 16 photo of roof flashing around chimney with visible gaps.\nMetal flashing at brick chimney showing separation and gaps where water could enter.\nRed brick chimney, asphalt shingles visible. Bright outdoor lighting.\nShot from roof level at an angle. Good iPhone color accuracy and sharpness.\nNatural smartphone photography style. No people in the image."
+  },
+  {
+    "filename": "foundation_crack.jpg",
+    "timestamp": 285.0,
+    "issue_type": "structural",
+    "category": "Foundation",
+    "severity": "major",
+    "prompt_used": "iPhone 16 photo of concrete foundation wall with vertical crack.\nGray concrete with a 1/8 inch wide vertical crack running several feet up the wall.\nSome moisture staining visible around the crack. Basement setting with artificial lighting.\nShot straight-on from a few feet away. Good iPhone exposure showing crack detail.\nTypical hand-held smartphone perspective. No people visible."
+  },
+  {
+    "filename": "basement_support_beam_sag.jpg",
+    "timestamp": 310.0,
+    "issue_type": "structural",
+    "category": "Structural Support",
+    "severity": "safety_hazard",
+    "prompt_used": "iPhone 16 photo of a wooden support beam in basement showing sagging.\nWooden beam visibly bowing downward under load. Basement ceiling joists visible.\nConcrete foundation walls in background. Overhead basement lighting.\nShot from standing position looking up at an angle, typical phone perspective.\nClear detail showing the sag. Natural iPhone color and dynamic range. No people."
+  },
+  {
+    "filename": "hvac_rust.jpg",
+    "timestamp": 335.0,
+    "issue_type": "hvac",
+    "category": "Furnace",
+    "severity": "moderate",
+    "prompt_used": "iPhone 16 photo of residential furnace with severe rust and corrosion.\nMetal HVAC unit with visible rust spots and deterioration on the casing.\nBasement or mechanical room setting. Utility room lighting.\nShot from a few feet away at chest height, typical smartphone angle.\nGood detail showing rust extent. Natural iPhone image quality. No people in frame."
+  },
+  {
+    "filename": "ac_unit_damage.jpg",
+    "timestamp": 360.0,
+    "issue_type": "hvac",
+    "category": "Air Conditioning",
+    "severity": "minor",
+    "prompt_used": "iPhone 16 photo of outdoor AC condenser unit with damaged fins.\nAir conditioning unit with bent and crushed cooling fins on the side.\nExterior residential setting, concrete pad, some grass visible. Natural daylight.\nShot from standing height looking slightly down. Good iPhone dynamic range.\nTypical casual smartphone photography perspective. No people visible."
+  },
+  {
+    "filename": "siding_damage.jpg",
+    "timestamp": 385.0,
+    "issue_type": "exterior",
+    "category": "Siding",
+    "severity": "moderate",
+    "prompt_used": "iPhone 16 photo of vinyl house siding with cracks and damage.\nBeige vinyl siding with visible cracks, warping, and a piece broken/missing.\nExterior wall of house, natural outdoor daylight. Some shadow and highlight detail.\nShot from standing position, slightly wide angle typical of iPhone.\nGood color accuracy and sharpness. Casual smartphone perspective. No people."
+  },
+  {
+    "filename": "gutter_separation.jpg",
+    "timestamp": 410.0,
+    "issue_type": "exterior",
+    "category": "Gutters",
+    "severity": "minor",
+    "prompt_used": "iPhone 16 photo of rain gutter separating from house fascia.\nWhite aluminum gutter pulling away from the roof edge, visible gap and sagging.\nResidential exterior, blue sky visible in background. Bright natural daylight.\nShot from ground level looking up at an angle, typical phone camera perspective.\nGood dynamic range showing detail. Natural iPhone colors. No people in frame."
+  },
+  {
+    "filename": "deck_railing_loose.jpg",
+    "timestamp": 435.0,
+    "issue_type": "exterior",
+    "category": "Deck",
+    "severity": "safety_hazard",
+    "prompt_used": "iPhone 16 photo of wooden deck railing that is loose and wobbly.\nBrown stained wood deck railing with visible gap at connection point to post.\nOutdoor deck setting, natural daylight. Deck boards visible in foreground.\nShot from deck level, casual hand-held angle typical of smartphone photography.\nGood detail showing the loose connection. Natural iPhone image quality. No people."
+  },
+  {
+    "filename": "driveway_cracks.jpg",
+    "timestamp": 460.0,
+    "issue_type": "exterior",
+    "category": "Driveway",
+    "severity": "minor",
+    "prompt_used": "iPhone 16 photo of concrete driveway with multiple cracks and deterioration.\nGray concrete with several cracks running across, some spalling and wear visible.\nResidential driveway, bright outdoor daylight casting some shadows.\nShot from standing height looking down at an angle. Slightly wide angle view.\nGood iPhone detail showing crack patterns. Natural colors. No people visible."
+  },
+  {
+    "filename": "attic_mold.jpg",
+    "timestamp": 485.0,
+    "issue_type": "attic",
+    "category": "Mold",
+    "severity": "safety_hazard",
+    "prompt_used": "iPhone 16 photo of attic rafters showing dark mold growth.\nWooden rafters and plywood sheathing with visible black/dark mold stains.\nAttic space, some natural light from vents plus flashlight illumination.\nShot looking up at rafters from attic floor. Good iPhone exposure in low light.\nShows texture and extent of mold. Typical hand-held phone angle. No people."
+  },
+  {
+    "filename": "insufficient_insulation.jpg",
+    "timestamp": 510.0,
+    "issue_type": "attic",
+    "category": "Insulation",
+    "severity": "minor",
+    "prompt_used": "iPhone 16 photo of attic floor showing inadequate insulation coverage.\nPink fiberglass insulation batts that are thin and patchy, gaps visible.\nAttic space with exposed floor joists. Natural light from attic vents.\nShot looking down at the attic floor. Clear detail showing insulation gaps.\nGood iPhone color accuracy. Casual smartphone perspective. No people in frame."
+  }
+]

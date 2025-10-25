@@ -1,0 +1,24 @@
+{
+  "photo_path": "sample_data/iphone_photos/attic_mold.jpg",
+  "photo_timestamp": 485.0,
+  "analysis": {
+    "location": "Attic",
+    "visible_elements": [
+      "roof sheathing",
+      "wooden rafters"
+    ],
+    "issues_detected": [
+      {
+        "title": "Mold Growth on Roof Sheathing",
+        "description": "The roof sheathing shows significant mold growth, which is indicative of moisture issues in the attic space.",
+        "category": "safety",
+        "severity": "major",
+        "recommendation": "Investigate and address the source of moisture. Improve attic ventilation and consider professional mold remediation."
+      }
+    ],
+    "overall_assessment": "The attic shows signs of mold growth, suggesting moisture problems that need immediate attention.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1200
+}

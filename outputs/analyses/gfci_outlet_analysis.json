@@ -1,17 +1,15 @@
 {
-  "photo_path": "sample_data/realistic_photos/gfci_outlet.jpg",
-  "photo_timestamp": 90.0,
+  "photo_path": "sample_data/iphone_photos/gfci_outlet.jpg",
+  "photo_timestamp": 110.0,
   "analysis": {
-    "location": "Interior Wall",
+    "location": "Interior - Likely Kitchen or Bathroom",
     "visible_elements": [
-      "GFCI outlet",
-      "Wall",
-      "Baseboard"
+      "GFCI outlet"
     ],
     "issues_detected": [],
     "overall_assessment": "The GFCI outlet appears to be properly installed with no visible defects.",
     "confidence": 0.95
   },
   "model_used": "gpt-4o",
-  "tokens_used": 1118
+  "tokens_used": 1116
 }
