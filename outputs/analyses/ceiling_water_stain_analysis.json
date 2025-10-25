@@ -1,0 +1,24 @@
+{
+  "photo_path": "sample_data/realistic_photos/ceiling_water_stain.jpg",
+  "photo_timestamp": 30.0,
+  "analysis": {
+    "location": "Interior - Ceiling",
+    "visible_elements": [
+      "ceiling",
+      "light fixture"
+    ],
+    "issues_detected": [
+      {
+        "title": "Water Stain on Ceiling",
+        "description": "A large brown water stain is visible around the light fixture on the ceiling, indicating a possible leak from above.",
+        "category": "interior",
+        "severity": "moderate",
+        "recommendation": "Investigate the source of the leak, which may be from plumbing or roof issues. Repair the leak and replace any damaged materials to prevent mold growth."
+      }
+    ],
+    "overall_assessment": "The ceiling shows signs of water damage, likely from a leak, which needs immediate attention to prevent further damage.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1217
+}

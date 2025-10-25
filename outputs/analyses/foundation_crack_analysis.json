@@ -1,0 +1,23 @@
+{
+  "photo_path": "sample_data/realistic_photos/foundation_crack.jpg",
+  "photo_timestamp": 250.0,
+  "analysis": {
+    "location": "Basement Wall",
+    "visible_elements": [
+      "concrete wall"
+    ],
+    "issues_detected": [
+      {
+        "title": "Vertical Crack in Concrete Wall",
+        "description": "A vertical crack is visible in the concrete wall, which may indicate settling or structural stress.",
+        "category": "structural",
+        "severity": "moderate",
+        "recommendation": "Consult a structural engineer to assess the cause and recommend repairs. Monitor the crack for any changes in size or shape."
+      }
+    ],
+    "overall_assessment": "The crack in the basement wall should be evaluated to prevent potential structural issues.",
+    "confidence": 0.9
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1196
+}

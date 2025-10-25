@@ -1,0 +1,44 @@
+[
+  {
+    "filename": "ceiling_water_stain.jpg",
+    "timestamp": 30.0,
+    "issue_type": "plumbing",
+    "severity": "moderate",
+    "prompt_used": "Photorealistic image of a residential interior ceiling with a brown water stain.\nThe stain is approximately 12 inches in diameter, brownish-yellow in color, showing moisture damage.\nThe ceiling is white painted drywall. The photo is taken from below looking up, showing the stain clearly.\nProfessional home inspection photo quality, well-lit, clear details. No people in the image."
+  },
+  {
+    "filename": "gfci_outlet.jpg",
+    "timestamp": 90.0,
+    "issue_type": "electrical",
+    "severity": "safety_hazard",
+    "prompt_used": "Photorealistic close-up photo of a GFCI electrical outlet on a white wall.\nThe outlet is beige/ivory colored with test and reset buttons visible. Professional home inspection photo,\nwell-lit, sharp focus on the outlet. The outlet appears to be in a bedroom or living area.\nStandard residential GFCI outlet. No people in the image."
+  },
+  {
+    "filename": "cabinet_water_damage.jpg",
+    "timestamp": 145.0,
+    "issue_type": "plumbing",
+    "severity": "minor",
+    "prompt_used": "Photorealistic photo looking inside a kitchen sink cabinet showing water damage.\nThe cabinet bottom is particle board with visible warping and discoloration from water exposure.\nDark stains and warping visible. Plumbing pipes visible in the background.\nProfessional home inspection photo, interior cabinet view, clear lighting showing the damage.\nNo people in the image."
+  },
+  {
+    "filename": "roof_shingle_damage.jpg",
+    "timestamp": 200.0,
+    "issue_type": "roof",
+    "severity": "major",
+    "prompt_used": "Photorealistic photo of damaged roof shingles on a residential home.\nSeveral asphalt shingles are curling, cracked, or missing. Close-up view showing deteriorated shingles.\nTaken from roof level. Professional home inspection photo quality, daylight, clear details of damage.\nNo people in the image."
+  },
+  {
+    "filename": "foundation_crack.jpg",
+    "timestamp": 250.0,
+    "issue_type": "structural",
+    "severity": "major",
+    "prompt_used": "Photorealistic photo of a concrete foundation wall with a vertical crack.\nThe crack is approximately 1/8 inch wide, running vertically for several feet.\nConcrete is gray, some moisture staining visible. Basement or crawl space setting.\nProfessional home inspection photo, clear view of the crack, good lighting.\nNo people in the image."
+  },
+  {
+    "filename": "hvac_rust.jpg",
+    "timestamp": 300.0,
+    "issue_type": "hvac",
+    "severity": "moderate",
+    "prompt_used": "Photorealistic photo of a residential HVAC unit showing rust and corrosion.\nAir handler or furnace with visible rust spots on the metal casing.\nClose-up view showing deterioration. Professional home inspection photo,\nmechanical room or basement setting, clear lighting showing rust detail.\nNo people in the image."
+  }
+]

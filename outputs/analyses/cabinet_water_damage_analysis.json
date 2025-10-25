@@ -1,0 +1,33 @@
+{
+  "photo_path": "sample_data/realistic_photos/cabinet_water_damage.jpg",
+  "photo_timestamp": 145.0,
+  "analysis": {
+    "location": "Kitchen - Under Sink Cabinet",
+    "visible_elements": [
+      "sink",
+      "P-trap",
+      "cabinet interior",
+      "plywood base"
+    ],
+    "issues_detected": [
+      {
+        "title": "Water Damage on Cabinet Floor",
+        "description": "The plywood base of the cabinet shows signs of water damage, including discoloration and potential mold growth. This suggests a previous or ongoing leak from the plumbing above.",
+        "category": "plumbing",
+        "severity": "moderate",
+        "recommendation": "Inspect and repair any leaks in the plumbing. Replace the damaged plywood to prevent mold growth and structural issues."
+      },
+      {
+        "title": "Potential Mold Growth",
+        "description": "Dark spots on the cabinet floor indicate possible mold growth due to moisture exposure.",
+        "category": "safety",
+        "severity": "safety_hazard",
+        "recommendation": "Conduct a mold assessment and remediation if necessary to ensure a safe environment."
+      }
+    ],
+    "overall_assessment": "The under-sink cabinet shows signs of water damage and possible mold growth, indicating a plumbing issue that needs to be addressed.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1304
+}

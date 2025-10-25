@@ -1,0 +1,17 @@
+{
+  "photo_path": "sample_data/realistic_photos/gfci_outlet.jpg",
+  "photo_timestamp": 90.0,
+  "analysis": {
+    "location": "Interior Wall",
+    "visible_elements": [
+      "GFCI outlet",
+      "Wall",
+      "Baseboard"
+    ],
+    "issues_detected": [],
+    "overall_assessment": "The GFCI outlet appears to be properly installed with no visible defects.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1118
+}

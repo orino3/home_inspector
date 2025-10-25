@@ -1,98 +1,178 @@
 {
   "metadata": {
-    "generated_at": "2025-10-25T06:38:04.601181",
-    "inspection_date": "2025-10-23",
+    "generated_at": "2025-10-25T07:29:42.452123",
+    "inspection_date": "2025-10-25",
     "generator": "Home Inspector AI - POC v0.1"
   },
   "property_info": {
-    "address": "123 Main Street, Springfield, IL 62701",
+    "address": "456 Oak Avenue, Portland, OR 97210",
     "property_type": "Single Family Home",
-    "year_built": "1985",
-    "square_footage": "2,400 sq ft",
-    "inspection_date": "2025-10-23",
-    "customer_name": "John Doe (Synthetic Test)",
-    "inspector_name": "AI Test Inspector"
+    "year_built": 1998,
+    "square_footage": "3,200 sq ft",
+    "inspection_date": "2025-10-25",
+    "inspector_name": "Professional Inspector (AI-Assisted)",
+    "customer_name": "Test Client (Realistic Photo Test)"
   },
-  "executive_summary": "Executive Summary:\n\nThe property located at 123 Main Street, Springfield, IL, is a single-family home built in 1985, encompassing approximately 2,400 square feet. The inspection conducted on October 23, 2025, reveals that the home is generally in satisfactory condition for its age and type. The structure is sound, and the home appears to have been maintained adequately. However, several issues have been identified that require attention to ensure safety and to maintain the property\u2019s integrity.\n\nThe most critical issue noted is a non-functioning Ground Fault Circuit Interrupter (GFCI) outlet, which poses a safety hazard and should be addressed immediately to ensure electrical safety in the home. Additionally, a moderate concern is the presence of a water stain on the master bedroom ceiling, which may indicate a past or ongoing leak that requires further investigation to prevent potential water damage. A minor issue was also observed, involving water damage to the under-sink cabinet, which, while not immediately concerning, should be repaired to prevent further deterioration.\n\nTo maintain the property\u2019s condition and value, it is recommended that the identified issues be addressed in a timely manner. Immediate attention should be given to rectifying the safety hazard posed by the GFCI outlet. Furthermore, it is advisable to consult with a qualified contractor to assess and repair the source of the water stain in the master bedroom. Regular maintenance and prompt repairs will ensure the property remains in good condition and safe for occupancy.",
+  "executive_summary": "Executive Summary:\n\nThe property located at 456 Oak Avenue, Portland, OR 97210, is a single-family home constructed in 1998, encompassing 3,200 square feet. The inspection conducted on October 25, 2025, reveals that the home is generally well-maintained, with a solid foundation and no significant structural issues. However, several areas require attention to ensure the continued safety and integrity of the home.\n\nThe inspection identified a total of six issues, with the most critical being severe rust on the furnace, which may compromise its efficiency and safety. This issue warrants immediate attention to prevent potential heating failures or safety hazards. Additionally, the presence of water damage and potential mold growth under the kitchen sink, along with a water stain on the master bedroom ceiling, suggests ongoing moisture issues that could lead to further damage if not promptly addressed. The roof's aging shingles also require evaluation and potential replacement to prevent future leaks. Furthermore, a vertical crack in the basement concrete wall, though not immediately threatening, should be monitored for any signs of expansion.\n\nTo enhance the safety and functionality of the property, it is recommended to replace the non-functioning GFCI outlet to mitigate electrical hazards. Addressing these issues with timely repairs and maintenance will help preserve the home's value and ensure a safe living environment for the occupants. It is advisable to consult with qualified professionals for detailed assessments and remediation of the identified concerns.",
   "overall_condition": {
     "rating": 3,
     "text": "Fair",
-    "severity_score": 10
+    "severity_score": 21
   },
   "statistics": {
-    "total_issues": 3,
+    "total_issues": 6,
     "by_severity": {
       "safety_hazard": 1,
-      "major": 0,
-      "moderate": 1,
-      "minor": 1,
+      "major": 1,
+      "moderate": 4,
+      "minor": 0,
       "informational": 0
     },
     "by_category": {
-      "interior": 2,
-      "electrical": 1
+      "interior": 1,
+      "electrical": 1,
+      "plumbing": 1,
+      "roof": 1,
+      "structural": 1,
+      "hvac": 1
     }
   },
   "sections": {
     "interior": {
       "title": "Interior",
-      "issue_count": 2,
-      "content": "\u26a0\ufe0f **Water Stain on Master Bedroom Ceiling**\nLocation: Ceiling - Master Bedroom\nSeverity: Moderate\n\nDescription: The ceiling in the master bedroom shows a water stain approximately 12 inches in diameter near the bathroom wall. The stain is brownish, indicating a possible old leak, but it feels slightly damp, suggesting it might be active. This issue indicates a potential leak from the bathroom above, possibly from the shower pan.\n\nRecommendation: Investigate the source of the leak and repair it. Consider repainting the ceiling after ensuring the leak is fixed. A licensed plumber should check the shower pan in the bathroom above.\n\nInspector Notes: The stain's dampness suggests an active leak. Addressing this issue soon is recommended.\n\n--------------------------------------------------------------------------------\n\n\ud83d\udccb **Under-Sink Cabinet Water Damage**\nLocation: Under kitchen sink\nSeverity: Minor\n\nDescription: The cabinet under the kitchen sink shows visible signs of damage, likely due to past water exposure. The inspector noted warping and discoloration of the particle board, indicating previous water intrusion. Although the pipes appear dry now, the damage suggests there was a leak at some point.\n\nRecommendation: The homeowner should monitor this area for potential leaks and consider replacing the damaged cabinet material.\n\nInspector Notes: The inspector noted this as a minor issue and recommended monitoring the area.\n\n--------------------------------------------------------------------------------\n",
+      "issue_count": 1,
+      "content": "\u26a0\ufe0f **Water Stain on Master Bedroom Ceiling**\nLocation: Master Bedroom Ceiling near Bathroom Wall\nSeverity: Moderate\n\nDescription: A large brown water stain is visible on the ceiling near the bathroom wall in the master bedroom. The stain measures approximately 12-14 inches across and feels slightly damp to the touch, indicating a potential active leak from the bathroom above. This suggests a possible plumbing issue, such as a leak from the shower pan or fixtures.\n\nRecommendation: Investigate the source of the leak, which may be from plumbing or roof issues. Repair the leak and replace any damaged materials to prevent mold growth. Recommend plumber inspection of shower pan and fixtures.\n\nInspector Notes: Recommend plumber inspection of shower pan and fixtures.\n\n--------------------------------------------------------------------------------\n",
       "issues": [
         {
           "title": "Water Stain on Master Bedroom Ceiling",
-          "description": "The ceiling in the master bedroom shows a water stain approximately 12 inches in diameter near the bathroom wall. The stain is brownish, indicating a possible old leak, but it feels slightly damp, suggesting it might be active. This issue indicates a potential leak from the bathroom above, possibly from the shower pan.",
+          "description": "A large brown water stain is visible on the ceiling near the bathroom wall in the master bedroom. The stain measures approximately 12-14 inches across and feels slightly damp to the touch, indicating a potential active leak from the bathroom above. This suggests a possible plumbing issue, such as a leak from the shower pan or fixtures.",
           "category": "interior",
           "severity": "moderate",
-          "location": "Ceiling - Master Bedroom",
+          "location": "Master Bedroom Ceiling near Bathroom Wall",
           "evidence": {
-            "from_photo": "Visible water stain on the ceiling, indicating a possible leak from above.",
-            "from_audio": "Inspector noted a 12-inch brownish water stain near the bathroom wall, slightly damp to the touch, suggesting an active leak.",
-            "correlation_confidence": 0.95
-          },
-          "recommendations": "Investigate the source of the leak and repair it. Consider repainting the ceiling after ensuring the leak is fixed. A licensed plumber should check the shower pan in the bathroom above.",
-          "inspector_notes": "The stain's dampness suggests an active leak. Addressing this issue soon is recommended.",
-          "photo_reference": "photo1_ceiling_stain.jpg",
-          "photo_timestamp": 30.0
-        },
-        {
-          "title": "Under-Sink Cabinet Water Damage",
-          "description": "The cabinet under the kitchen sink shows visible signs of damage, likely due to past water exposure. The inspector noted warping and discoloration of the particle board, indicating previous water intrusion. Although the pipes appear dry now, the damage suggests there was a leak at some point.",
-          "category": "interior",
-          "severity": "minor",
-          "location": "Under kitchen sink",
-          "evidence": {
-            "from_photo": "The cabinet under the kitchen sink shows visible signs of damage, possibly due to water exposure.",
-            "from_audio": "The inspector observed warping and discoloration of the particle board, indicating past water intrusion. The pipes appear dry now, but the damage suggests there was a leak.",
+            "from_photo": "A large brown water stain is visible around the light fixture on the ceiling.",
+            "from_audio": "The stain is brownish, appears to be about 12-14 inches across. It's slightly damp, suggesting an active leak from the bathroom above.",
             "correlation_confidence": 0.9
           },
-          "recommendations": "The homeowner should monitor this area for potential leaks and consider replacing the damaged cabinet material.",
-          "inspector_notes": "The inspector noted this as a minor issue and recommended monitoring the area.",
-          "photo_reference": "photo3_cabinet_damage.jpg",
-          "photo_timestamp": 145.0
+          "recommendations": "Investigate the source of the leak, which may be from plumbing or roof issues. Repair the leak and replace any damaged materials to prevent mold growth. Recommend plumber inspection of shower pan and fixtures.",
+          "inspector_notes": "Recommend plumber inspection of shower pan and fixtures.",
+          "photo_reference": "ceiling_water_stain.jpg",
+          "photo_timestamp": 30.0
         }
       ]
     },
     "electrical": {
       "title": "Electrical",
       "issue_count": 1,
-      "content": "\ud83d\udea8 **Non-Functioning GFCI Outlet**\nLocation: North wall near the window\nSeverity: Safety Hazard\n\nDescription: The GFCI outlet located on the north wall near the window is not functioning properly. The inspector tested the outlet and found that it is not tripping, which indicates a malfunction. This poses a significant safety hazard as GFCI outlets are essential for protection against electrical shock, particularly in bedrooms. Immediate replacement by a licensed electrician is recommended.\n\nRecommendation: Have a licensed electrician inspect and repair or replace the outlet to ensure it is functioning properly and safely.\n\nInspector Notes: This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician.\n\n--------------------------------------------------------------------------------\n",
+      "content": "\ud83d\udea8 **Non-Functioning GFCI Outlet**\nLocation: Bedroom, north wall\nSeverity: Safety Hazard\n\nDescription: The GFCI outlet located on the interior wall appears properly installed with no visible defects in the photo. However, the inspector noted that the GFCI outlet in the bedroom on the north wall does not trip when the test button is pressed, indicating a malfunction. This is identified as a safety hazard because GFCI outlets are essential for shock protection.\n\nRecommendation: Immediate replacement by a licensed electrician is recommended.\n\nInspector Notes: GFCI outlets are required for shock protection.\n\n--------------------------------------------------------------------------------\n",
       "issues": [
         {
           "title": "Non-Functioning GFCI Outlet",
-          "description": "The GFCI outlet located on the north wall near the window is not functioning properly. The inspector tested the outlet and found that it is not tripping, which indicates a malfunction. This poses a significant safety hazard as GFCI outlets are essential for protection against electrical shock, particularly in bedrooms. Immediate replacement by a licensed electrician is recommended.",
+          "description": "The GFCI outlet located on the interior wall appears properly installed with no visible defects in the photo. However, the inspector noted that the GFCI outlet in the bedroom on the north wall does not trip when the test button is pressed, indicating a malfunction. This is identified as a safety hazard because GFCI outlets are essential for shock protection.",
           "category": "electrical",
           "severity": "safety_hazard",
-          "location": "North wall near the window",
+          "location": "Bedroom, north wall",
           "evidence": {
-            "from_photo": "The GFCI outlet is labeled as not functioning, indicating a potential electrical issue.",
-            "from_audio": "Inspector noted the GFCI outlet is not tripping and identified it as a major safety concern.",
-            "correlation_confidence": 1.0
+            "from_photo": "The GFCI outlet appears to be properly installed with no visible defects.",
+            "from_audio": "The inspector stated that the GFCI outlet is not tripping when tested, which is a safety hazard.",
+            "correlation_confidence": 0.8
           },
-          "recommendations": "Have a licensed electrician inspect and repair or replace the outlet to ensure it is functioning properly and safely.",
-          "inspector_notes": "This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician.",
-          "photo_reference": "photo2_gfci_outlet.jpg",
+          "recommendations": "Immediate replacement by a licensed electrician is recommended.",
+          "inspector_notes": "GFCI outlets are required for shock protection.",
+          "photo_reference": "gfci_outlet.jpg",
           "photo_timestamp": 90.0
+        }
+      ]
+    },
+    "plumbing": {
+      "title": "Plumbing",
+      "issue_count": 1,
+      "content": "\u26a0\ufe0f **Water Damage and Potential Mold Growth Under Kitchen Sink**\nLocation: Kitchen - Under Sink Cabinet\nSeverity: Moderate\n\nDescription: The under-sink cabinet in the kitchen shows signs of water damage, including warping and discoloration of the plywood base, as well as potential mold growth. The inspector noted that the particle board cabinet bottom is warped and discolored, indicating past water intrusion. Although the supply lines appear dry at the moment, the damage suggests there was a leak at some point.\n\nRecommendation: Inspect and repair any leaks in the plumbing. Replace the damaged plywood to prevent mold growth and structural issues. Conduct a mold assessment and remediation if necessary.\n\nInspector Notes: Homeowner should monitor this area.\n\n--------------------------------------------------------------------------------\n",
+      "issues": [
+        {
+          "title": "Water Damage and Potential Mold Growth Under Kitchen Sink",
+          "description": "The under-sink cabinet in the kitchen shows signs of water damage, including warping and discoloration of the plywood base, as well as potential mold growth. The inspector noted that the particle board cabinet bottom is warped and discolored, indicating past water intrusion. Although the supply lines appear dry at the moment, the damage suggests there was a leak at some point.",
+          "category": "plumbing",
+          "severity": "moderate",
+          "location": "Kitchen - Under Sink Cabinet",
+          "evidence": {
+            "from_photo": "Water damage and potential mold growth on the plywood base of the cabinet.",
+            "from_audio": "Inspector observed warping and discoloration of the cabinet bottom, indicating past water intrusion.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Inspect and repair any leaks in the plumbing. Replace the damaged plywood to prevent mold growth and structural issues. Conduct a mold assessment and remediation if necessary.",
+          "inspector_notes": "Homeowner should monitor this area.",
+          "photo_reference": "cabinet_water_damage.jpg",
+          "photo_timestamp": 145.0
+        }
+      ]
+    },
+    "roof": {
+      "title": "Roof",
+      "issue_count": 1,
+      "content": "\u26a0\ufe0f **Damaged and Aging Shingles**\nLocation: Roof - North Side\nSeverity: Moderate\n\nDescription: The roof on the north side shows several asphalt shingles that are lifted and appear to be damaged, likely due to wind or improper installation. The inspector noted significant age-related wear on the south-facing slope, with curling, cracking, and granule loss, and recommended roof replacement within 2-3 years.\n\nRecommendation: Replace damaged shingles on the north side to prevent water infiltration and further roof damage. Consider roof replacement within 2-3 years due to overall age-related wear.\n\nInspector Notes: Inspector recommends roof replacement within 2-3 years due to significant age-related wear.\n\n--------------------------------------------------------------------------------\n",
+      "issues": [
+        {
+          "title": "Damaged and Aging Shingles",
+          "description": "The roof on the north side shows several asphalt shingles that are lifted and appear to be damaged, likely due to wind or improper installation. The inspector noted significant age-related wear on the south-facing slope, with curling, cracking, and granule loss, and recommended roof replacement within 2-3 years.",
+          "category": "roof",
+          "severity": "moderate",
+          "location": "Roof - North Side",
+          "evidence": {
+            "from_photo": "Several asphalt shingles are lifted and appear to be damaged.",
+            "from_audio": "Inspector noted curling, cracking, granule loss, and missing shingles on the south-facing slope.",
+            "correlation_confidence": 0.6
+          },
+          "recommendations": "Replace damaged shingles on the north side to prevent water infiltration and further roof damage. Consider roof replacement within 2-3 years due to overall age-related wear.",
+          "inspector_notes": "Inspector recommends roof replacement within 2-3 years due to significant age-related wear.",
+          "photo_reference": "roof_shingle_damage.jpg",
+          "photo_timestamp": 200.0
+        }
+      ]
+    },
+    "structural": {
+      "title": "Structural",
+      "issue_count": 1,
+      "content": "\u26a0\ufe0f **Vertical Crack in Basement Concrete Wall**\nLocation: Basement Wall, East Side\nSeverity: Moderate\n\nDescription: A vertical crack approximately 6 feet in length and 1/8 inch in width is visible in the concrete wall of the basement on the east side. This crack may indicate settling or structural stress, and there is some moisture staining around the crack. It is recommended to consult a structural engineer to assess the cause and recommend repairs. Monitoring the crack for any changes in size or shape is advised.\n\nRecommendation: Consult a structural engineer to assess the cause and recommend repairs. Monitor the crack for any changes in size or shape.\n\nInspector Notes: This needs monitoring and potential structural engineer consultation.\n\n--------------------------------------------------------------------------------\n",
+      "issues": [
+        {
+          "title": "Vertical Crack in Basement Concrete Wall",
+          "description": "A vertical crack approximately 6 feet in length and 1/8 inch in width is visible in the concrete wall of the basement on the east side. This crack may indicate settling or structural stress, and there is some moisture staining around the crack. It is recommended to consult a structural engineer to assess the cause and recommend repairs. Monitoring the crack for any changes in size or shape is advised.",
+          "category": "structural",
+          "severity": "moderate",
+          "location": "Basement Wall, East Side",
+          "evidence": {
+            "from_photo": "A vertical crack is visible in the concrete wall, which may indicate settling or structural stress.",
+            "from_audio": "In the basement, I've found a vertical crack in the concrete foundation wall on the east side. The crack runs approximately 6 feet vertically and measures about 1/8 inch in width. Some moisture staining visible around the crack.",
+            "correlation_confidence": 0.95
+          },
+          "recommendations": "Consult a structural engineer to assess the cause and recommend repairs. Monitor the crack for any changes in size or shape.",
+          "inspector_notes": "This needs monitoring and potential structural engineer consultation.",
+          "photo_reference": "foundation_crack.jpg",
+          "photo_timestamp": 250.0
+        }
+      ]
+    },
+    "hvac": {
+      "title": "HVAC",
+      "issue_count": 1,
+      "content": "\u26a0\ufe0f **Severe Rust on Furnace**\nLocation: Utility Room - HVAC Area\nSeverity: Major\n\nDescription: The furnace in the utility room's HVAC area exhibits significant rust and corrosion on the exterior casing, particularly on the front panel. This rust indicates potential moisture issues and could compromise the structural integrity of the unit. The furnace is approximately 18 years old, which is nearing the end of its typical lifespan. While it is currently functional, the homeowner should budget for replacement in the near future.\n\nRecommendation: Immediate evaluation by a licensed HVAC technician is recommended to assess the extent of the damage and determine if repair or replacement is necessary. Homeowner should budget for replacement in the near future.\n\nInspector Notes: While currently functional, homeowner should budget for replacement in the near future.\n\n--------------------------------------------------------------------------------\n",
+      "issues": [
+        {
+          "title": "Severe Rust on Furnace",
+          "description": "The furnace in the utility room's HVAC area exhibits significant rust and corrosion on the exterior casing, particularly on the front panel. This rust indicates potential moisture issues and could compromise the structural integrity of the unit. The furnace is approximately 18 years old, which is nearing the end of its typical lifespan. While it is currently functional, the homeowner should budget for replacement in the near future.",
+          "category": "hvac",
+          "severity": "major",
+          "location": "Utility Room - HVAC Area",
+          "evidence": {
+            "from_photo": "The furnace casing shows significant rust and corrosion, particularly on the front panel.",
+            "from_audio": "The furnace in the basement shows rust and corrosion on the exterior casing. The unit is approximately 18 years old, nearing the end of its typical lifespan.",
+            "correlation_confidence": 0.9
+          },
+          "recommendations": "Immediate evaluation by a licensed HVAC technician is recommended to assess the extent of the damage and determine if repair or replacement is necessary. Homeowner should budget for replacement in the near future.",
+          "inspector_notes": "While currently functional, homeowner should budget for replacement in the near future.",
+          "photo_reference": "hvac_rust.jpg",
+          "photo_timestamp": 300.0
         }
       ]
     }
@@ -100,51 +180,99 @@
   "all_issues": [
     {
       "title": "Water Stain on Master Bedroom Ceiling",
-      "description": "The ceiling in the master bedroom shows a water stain approximately 12 inches in diameter near the bathroom wall. The stain is brownish, indicating a possible old leak, but it feels slightly damp, suggesting it might be active. This issue indicates a potential leak from the bathroom above, possibly from the shower pan.",
+      "description": "A large brown water stain is visible on the ceiling near the bathroom wall in the master bedroom. The stain measures approximately 12-14 inches across and feels slightly damp to the touch, indicating a potential active leak from the bathroom above. This suggests a possible plumbing issue, such as a leak from the shower pan or fixtures.",
       "category": "interior",
       "severity": "moderate",
-      "location": "Ceiling - Master Bedroom",
+      "location": "Master Bedroom Ceiling near Bathroom Wall",
       "evidence": {
-        "from_photo": "Visible water stain on the ceiling, indicating a possible leak from above.",
-        "from_audio": "Inspector noted a 12-inch brownish water stain near the bathroom wall, slightly damp to the touch, suggesting an active leak.",
-        "correlation_confidence": 0.95
+        "from_photo": "A large brown water stain is visible around the light fixture on the ceiling.",
+        "from_audio": "The stain is brownish, appears to be about 12-14 inches across. It's slightly damp, suggesting an active leak from the bathroom above.",
+        "correlation_confidence": 0.9
       },
-      "recommendations": "Investigate the source of the leak and repair it. Consider repainting the ceiling after ensuring the leak is fixed. A licensed plumber should check the shower pan in the bathroom above.",
-      "inspector_notes": "The stain's dampness suggests an active leak. Addressing this issue soon is recommended.",
-      "photo_reference": "photo1_ceiling_stain.jpg",
+      "recommendations": "Investigate the source of the leak, which may be from plumbing or roof issues. Repair the leak and replace any damaged materials to prevent mold growth. Recommend plumber inspection of shower pan and fixtures.",
+      "inspector_notes": "Recommend plumber inspection of shower pan and fixtures.",
+      "photo_reference": "ceiling_water_stain.jpg",
       "photo_timestamp": 30.0
     },
     {
       "title": "Non-Functioning GFCI Outlet",
-      "description": "The GFCI outlet located on the north wall near the window is not functioning properly. The inspector tested the outlet and found that it is not tripping, which indicates a malfunction. This poses a significant safety hazard as GFCI outlets are essential for protection against electrical shock, particularly in bedrooms. Immediate replacement by a licensed electrician is recommended.",
+      "description": "The GFCI outlet located on the interior wall appears properly installed with no visible defects in the photo. However, the inspector noted that the GFCI outlet in the bedroom on the north wall does not trip when the test button is pressed, indicating a malfunction. This is identified as a safety hazard because GFCI outlets are essential for shock protection.",
       "category": "electrical",
       "severity": "safety_hazard",
-      "location": "North wall near the window",
+      "location": "Bedroom, north wall",
       "evidence": {
-        "from_photo": "The GFCI outlet is labeled as not functioning, indicating a potential electrical issue.",
-        "from_audio": "Inspector noted the GFCI outlet is not tripping and identified it as a major safety concern.",
-        "correlation_confidence": 1.0
+        "from_photo": "The GFCI outlet appears to be properly installed with no visible defects.",
+        "from_audio": "The inspector stated that the GFCI outlet is not tripping when tested, which is a safety hazard.",
+        "correlation_confidence": 0.8
       },
-      "recommendations": "Have a licensed electrician inspect and repair or replace the outlet to ensure it is functioning properly and safely.",
-      "inspector_notes": "This is a safety hazard because GFCI outlets are required in bedrooms for protection against electrical shock. This outlet should be replaced immediately by a licensed electrician.",
-      "photo_reference": "photo2_gfci_outlet.jpg",
+      "recommendations": "Immediate replacement by a licensed electrician is recommended.",
+      "inspector_notes": "GFCI outlets are required for shock protection.",
+      "photo_reference": "gfci_outlet.jpg",
       "photo_timestamp": 90.0
     },
     {
-      "title": "Under-Sink Cabinet Water Damage",
-      "description": "The cabinet under the kitchen sink shows visible signs of damage, likely due to past water exposure. The inspector noted warping and discoloration of the particle board, indicating previous water intrusion. Although the pipes appear dry now, the damage suggests there was a leak at some point.",
-      "category": "interior",
-      "severity": "minor",
-      "location": "Under kitchen sink",
+      "title": "Water Damage and Potential Mold Growth Under Kitchen Sink",
+      "description": "The under-sink cabinet in the kitchen shows signs of water damage, including warping and discoloration of the plywood base, as well as potential mold growth. The inspector noted that the particle board cabinet bottom is warped and discolored, indicating past water intrusion. Although the supply lines appear dry at the moment, the damage suggests there was a leak at some point.",
+      "category": "plumbing",
+      "severity": "moderate",
+      "location": "Kitchen - Under Sink Cabinet",
       "evidence": {
-        "from_photo": "The cabinet under the kitchen sink shows visible signs of damage, possibly due to water exposure.",
-        "from_audio": "The inspector observed warping and discoloration of the particle board, indicating past water intrusion. The pipes appear dry now, but the damage suggests there was a leak.",
+        "from_photo": "Water damage and potential mold growth on the plywood base of the cabinet.",
+        "from_audio": "Inspector observed warping and discoloration of the cabinet bottom, indicating past water intrusion.",
         "correlation_confidence": 0.9
       },
-      "recommendations": "The homeowner should monitor this area for potential leaks and consider replacing the damaged cabinet material.",
-      "inspector_notes": "The inspector noted this as a minor issue and recommended monitoring the area.",
-      "photo_reference": "photo3_cabinet_damage.jpg",
+      "recommendations": "Inspect and repair any leaks in the plumbing. Replace the damaged plywood to prevent mold growth and structural issues. Conduct a mold assessment and remediation if necessary.",
+      "inspector_notes": "Homeowner should monitor this area.",
+      "photo_reference": "cabinet_water_damage.jpg",
       "photo_timestamp": 145.0
+    },
+    {
+      "title": "Damaged and Aging Shingles",
+      "description": "The roof on the north side shows several asphalt shingles that are lifted and appear to be damaged, likely due to wind or improper installation. The inspector noted significant age-related wear on the south-facing slope, with curling, cracking, and granule loss, and recommended roof replacement within 2-3 years.",
+      "category": "roof",
+      "severity": "moderate",
+      "location": "Roof - North Side",
+      "evidence": {
+        "from_photo": "Several asphalt shingles are lifted and appear to be damaged.",
+        "from_audio": "Inspector noted curling, cracking, granule loss, and missing shingles on the south-facing slope.",
+        "correlation_confidence": 0.6
+      },
+      "recommendations": "Replace damaged shingles on the north side to prevent water infiltration and further roof damage. Consider roof replacement within 2-3 years due to overall age-related wear.",
+      "inspector_notes": "Inspector recommends roof replacement within 2-3 years due to significant age-related wear.",
+      "photo_reference": "roof_shingle_damage.jpg",
+      "photo_timestamp": 200.0
+    },
+    {
+      "title": "Vertical Crack in Basement Concrete Wall",
+      "description": "A vertical crack approximately 6 feet in length and 1/8 inch in width is visible in the concrete wall of the basement on the east side. This crack may indicate settling or structural stress, and there is some moisture staining around the crack. It is recommended to consult a structural engineer to assess the cause and recommend repairs. Monitoring the crack for any changes in size or shape is advised.",
+      "category": "structural",
+      "severity": "moderate",
+      "location": "Basement Wall, East Side",
+      "evidence": {
+        "from_photo": "A vertical crack is visible in the concrete wall, which may indicate settling or structural stress.",
+        "from_audio": "In the basement, I've found a vertical crack in the concrete foundation wall on the east side. The crack runs approximately 6 feet vertically and measures about 1/8 inch in width. Some moisture staining visible around the crack.",
+        "correlation_confidence": 0.95
+      },
+      "recommendations": "Consult a structural engineer to assess the cause and recommend repairs. Monitor the crack for any changes in size or shape.",
+      "inspector_notes": "This needs monitoring and potential structural engineer consultation.",
+      "photo_reference": "foundation_crack.jpg",
+      "photo_timestamp": 250.0
+    },
+    {
+      "title": "Severe Rust on Furnace",
+      "description": "The furnace in the utility room's HVAC area exhibits significant rust and corrosion on the exterior casing, particularly on the front panel. This rust indicates potential moisture issues and could compromise the structural integrity of the unit. The furnace is approximately 18 years old, which is nearing the end of its typical lifespan. While it is currently functional, the homeowner should budget for replacement in the near future.",
+      "category": "hvac",
+      "severity": "major",
+      "location": "Utility Room - HVAC Area",
+      "evidence": {
+        "from_photo": "The furnace casing shows significant rust and corrosion, particularly on the front panel.",
+        "from_audio": "The furnace in the basement shows rust and corrosion on the exterior casing. The unit is approximately 18 years old, nearing the end of its typical lifespan.",
+        "correlation_confidence": 0.9
+      },
+      "recommendations": "Immediate evaluation by a licensed HVAC technician is recommended to assess the extent of the damage and determine if repair or replacement is necessary. Homeowner should budget for replacement in the near future.",
+      "inspector_notes": "While currently functional, homeowner should budget for replacement in the near future.",
+      "photo_reference": "hvac_rust.jpg",
+      "photo_timestamp": 300.0
     }
   ]
 }

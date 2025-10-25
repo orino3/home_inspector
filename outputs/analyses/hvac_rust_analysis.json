@@ -1,0 +1,25 @@
+{
+  "photo_path": "sample_data/realistic_photos/hvac_rust.jpg",
+  "photo_timestamp": 300.0,
+  "analysis": {
+    "location": "Utility Room - HVAC Area",
+    "visible_elements": [
+      "furnace",
+      "ductwork",
+      "vent pipes"
+    ],
+    "issues_detected": [
+      {
+        "title": "Severe Rust on Furnace",
+        "description": "The furnace casing shows significant rust and corrosion, particularly on the front panel. This indicates potential moisture issues and could compromise the structural integrity of the unit.",
+        "category": "hvac",
+        "severity": "major",
+        "recommendation": "Immediate evaluation by a licensed HVAC technician is recommended to assess the extent of the damage and determine if repair or replacement is necessary."
+      }
+    ],
+    "overall_assessment": "The furnace exhibits severe rust, which may affect its functionality and safety. Prompt professional assessment is advised.",
+    "confidence": 0.95
+  },
+  "model_used": "gpt-4o",
+  "tokens_used": 1224
+}
